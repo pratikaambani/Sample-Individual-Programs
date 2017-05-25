@@ -1,4 +1,4 @@
-package com.sample.preferenceAPI;
+package com.sample.preferenceapi;
 
 import java.util.prefs.Preferences;
 

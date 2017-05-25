@@ -1,4 +1,4 @@
-package com.sample.thisO;
+package com.sample.thisobject;
 
 public class ThisObj {
 

@@ -1,4 +1,4 @@
-package com.sample.PolymorphismEx;
+package com.sample.polymorphism;
 
 //UnitTest Cases
 public class TestMul {

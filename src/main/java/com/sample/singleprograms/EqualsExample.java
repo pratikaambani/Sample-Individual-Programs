@@ -27,6 +27,13 @@ public class EqualsExample {
 
 		System.out.println("foo=bar: " +(abc=bar));
 
+
+		String s1 = "abc";
+		String s2 = "abc";
+		System.out.println("s1 == s2 is:" + s1 == s2);
+		System.out.println("s1 == s2 is:" + (s1 == s2));
+
+
 	}
 
 }
