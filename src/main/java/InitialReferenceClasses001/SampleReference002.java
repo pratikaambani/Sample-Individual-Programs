@@ -1,7 +1,7 @@
 package InitialReferenceClasses001;
 
 /**
- * Created by VatshP2 on 23/05/2017.
+ * Created by AmbaniP on 23/05/2017.
  */
 public class SampleReference002 {
 
