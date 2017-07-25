@@ -27,18 +27,7 @@ public class SampleHelloWorld001 implements I1{
     }
 
     public void print1() {
-        System.out.pri
-
-
-
-
-
-
-
-
-
-
-        ntln();
+        System.out.println();
 
     }
 
