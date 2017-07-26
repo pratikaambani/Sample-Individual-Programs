@@ -5,6 +5,7 @@ import java.net.*;
 
 public class URLConnectionExample {
 	public static void main(String[] args) {
+
 		try {
 			URL url = new URL("http://localhost:8081/DTH_Sales");
 			URLConnection urlcon = url.openConnection();
