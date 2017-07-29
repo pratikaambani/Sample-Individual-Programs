@@ -1,6 +1,6 @@
-package com.sample.overloading;
+package sample.overloading;
 
-class Calculation {
+class Overloading5 {
 	void sum(int a, long b) {
 		System.out.println("a method invoked");
 	}
@@ -10,8 +10,9 @@ class Calculation {
 	}
 
 	public static void main(String args[]) {
-		Calculation obj = new Calculation();
-		obj.sum(20, 20);// now ambiguity
+		Overloading5 obj = new Overloading5();
+		System.out.println("uncomment below line");
+//		obj.sum(20, 20);// now ambiguity
 	}
 }
 

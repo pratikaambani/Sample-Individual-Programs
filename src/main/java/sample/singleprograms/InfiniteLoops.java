@@ -31,7 +31,7 @@ public class InfiniteLoops {
 		}
 */
 	
-		fdf
+		//fdf
 		System.out.println("Ex. 5");
 		for (Long i = Long.MIN_VALUE; i < Long.MAX_VALUE; i++) {
 			System.out.println("Lets see how much times this is printed.");

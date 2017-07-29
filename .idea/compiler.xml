@@ -29,7 +29,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sample-Individual-Programs" target="1.5" />
-      <module name="Sample-Individual-Programs" target="1.5" />
+      <module name="Sample-Individual-Programs" target="1.7" />
       <module name="SampleIndividualPrograms" target="1.5" />
     </bytecodeTargetLevel>
   </component>

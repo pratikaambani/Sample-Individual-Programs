@@ -1,4 +1,4 @@
-package com.bhavik.database.jdbc.helloworld;
+package com.database.jdbc.helloworld;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

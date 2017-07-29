@@ -1,3 +1,6 @@
+package sample.singleprograms;
+
+import com.sample.singleprograms.MyFirst;
 
 public class MyFirstPj {
 	private String name;
