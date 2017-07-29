@@ -2,9 +2,9 @@ package com.sample.FileIOEx1;
 
 import java.io.*;
 
-public  class EFileReaderWriter {
+public class EFileReaderWriter {
 
-	public  static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException {
 
 		String text = "This is Development of File IO on 48.28";
 

@@ -1,7 +1,7 @@
 import java.util.StringTokenizer;
 
-public  class String_Tokenizer {
-	public  static void main(String[] args) {
+public class String_Tokenizer {
+	public static void main(String[] args) {
 
 		String str = "This is String , split by StringTokenizer, created by pratik";
 		StringTokenizer st = new StringTokenizer(str);

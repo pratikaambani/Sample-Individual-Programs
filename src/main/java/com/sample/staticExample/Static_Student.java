@@ -14,7 +14,7 @@ class Static_Student {
 		System.out.println(rollno + " " + name + " " + college);
 	}
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 		Static_Student s1 = new Static_Student(111, "A");
 		Static_Student s2 = new Static_Student(222, "B");
 

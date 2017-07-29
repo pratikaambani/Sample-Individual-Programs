@@ -4,17 +4,17 @@ class Room1<a> {
 
 	private a object;
 
-	public  void add(a object) {
+	public void add(a object) {
 		this.object = object;
 	}
 
-	public  a get() {
+	public a get() {
 		return object;
 	}
 }
 
-public  class Main {
-	public  static void main(String[] args) {
+public class Main {
+	public static void main(String[] args) {
 		Room1<Integer> room = new Room1<Integer>();
 		room.add(60);
 		// room.add("60"); //this will cause a run-time error

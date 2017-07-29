@@ -2,332 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5bd35a7-8935-4dd2-8469-5dfed565a4c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/Sample-Individual-Programs-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Circle1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/FwSlash.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/IncDec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/InitialReferenceClasses001/C3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/InitialReferenceClasses001/I1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/InitialReferenceClasses001/SampleHelloWorld001.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/InitialReferenceClasses001/SampleReference002.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Prm.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/ReflectionAPIClassclass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/SampleClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Shape1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Square1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Stacktraceutil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/StringMutImmut.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/String_Tokenizer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Test3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/TestStringManipulation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/TyprConversion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/X.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Y.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Z.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/database/jdbc/helloworld/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/database/jdbc/helloworld/HelloWorld.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/AFileOSIN.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/AndAndVsAnd.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/BByteArrayOutputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/CSequenceInputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/DBufferredOutputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/EFileReaderWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/FCharacterArrayWriterClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/FOStreamAndByteArrayOS.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/Fifo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx1/GInputStreamReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx2/ReadFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/FileIOEx2/ReadPropertyUsingResourceBundle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/Bhukhkhad.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/Chickoo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/CompileTimePolymorphism.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/Food.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/Mango.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/RunTimePolymorphism.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/SuperC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/TestMul.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/PolymorphismEx/testC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/accessModifiersAndThis/Access.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/accessModifiersAndThis/AccessMain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/accessModifiersAndThis/FinalExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/accessModifiersAndThis/FinalMain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/accessModifiersAndThis/TrimEx.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/bindings/Animal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/bindings/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/bindings/DogEarly.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/bindings/DogLate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/bindings/LateOrDynamicBinding.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/bindings/Vehicle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/encapsulationEx/EncapBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/encapsulationEx/EncapsulationEx.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/exceptions/CheckedException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/exceptions/MultipleExceptionsInSingleCatchBlock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/exceptions/UnCheckedException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/interfaces/I1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/interfaces/I2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/interfaces/Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/interfaces/Printable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/interfaces/PrintableTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/interfaces/Stock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/networling/URLConnectionExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/overloading/Overloading1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/overloading/Overloading2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/overloading/Overloading4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/overloading/OverridingExperiment.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/preferenceAPI/PreferenceExample1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/regularExpressions/MatchingPattern.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/regularExpressions/RegexWithEmailValidation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/serialization1/DeSerializationExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/serialization1/SerializationExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/serialization1/SerializeMain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/serialization2/SampleData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/serialization2/TransientExampleDeSerializable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/serialization2/TransientExampleSerializable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Address.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/AggregationExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Animal1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/CallByValue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/ChildClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/ChildPublicClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/CloneEx.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/CommandLineArguement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/ComplexJavaClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Date1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/DateLocaleGetinstance.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/EnemyShip.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Enum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/EqualsExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/EqualsIgCase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/FinalizeExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/GenericTypes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Increment01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/InfiniteLoops.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Java7Literals.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/LogFilter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/LogFilter1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/LongVSLongOutputTime.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/MainClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/MammalInt.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Maptest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/MatchesVsEqualsIgnoreCase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/MathClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/MethodOverRiding.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/MyFirst.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/OracleJDBC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Oube.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/ParentClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/ParentClass1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/RandomVsSecureRandom.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/ResourceBundleEx.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Room.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Room1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/SampleClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Session.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Shape.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/SimpleSOP.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/SingletonClass$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/SingletonClass$PrivateConstructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/SingletonClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Square.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Static_Variable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/StrBfr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/StringClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/StringSplitAndTokenuizer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/TryCatchFinallyEx.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/TypeCastingExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/Unicode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/XYZ.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/absClassAndInstanceOf.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/breakContinue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/getid_mthd.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/getrealpath.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/singleprograms/tests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/staticExample/StaticCallFromNullObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/staticExample/StaticMain.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/staticExample/Static_Student.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/staticExample/Static_Var.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/staticExample/TestStatic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/stringManipulation/HashCode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/stringManipulation/Split.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/stringManipulation/Substring.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/stringManipulation/TestHashCode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/stringManipulation/TestIsDigit.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/stringManipulation/intVSInteger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/superEx/Test1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/superEx/Test_Super.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/thisO/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/thisO/ThisObj.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/threadFailEx/FailFastEx.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/threadFailEx/FailSafeEx.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sample/threading/JoinThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/floor_cell.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/overloading/Overloading3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/overloading/Overloading5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sample/singleprograms/MyFirstPj.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/smapleList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/student.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/test1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/testExceptionColln.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/testListAdd.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/typecast.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/database/jdbc/helloworld/AppTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.database.jdbc.helloworld.AppTest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/com.database.jdbc.helloworld.AppTest.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/IncDec.java" afterPath="$PROJECT_DIR$/src/main/java/IncDec.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/InitialReferenceClasses001/SampleHelloWorld001.java" afterPath="$PROJECT_DIR$/src/main/java/InitialReferenceClasses001/SampleHelloWorld001.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/InitialReferenceClasses001/SampleReference002.java" afterPath="$PROJECT_DIR$/src/main/java/InitialReferenceClasses001/SampleReference002.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/TyprConversion.java" afterPath="$PROJECT_DIR$/src/main/java/TyprConversion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/database/jdbc/helloworld/App.java" afterPath="$PROJECT_DIR$/src/main/java/com/database/jdbc/helloworld/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/database/jdbc/helloworld/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/com/database/jdbc/helloworld/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/AFileOSIN.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/AFileOSIN.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/AndAndVsAnd.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/AndAndVsAnd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/BByteArrayOutputStream.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/BByteArrayOutputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/CSequenceInputStream.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/CSequenceInputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/DBufferredOutputStream.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/DBufferredOutputStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/EFileReaderWriter.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/EFileReaderWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/FCharacterArrayWriterClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/FCharacterArrayWriterClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/FOStreamAndByteArrayOS.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/FOStreamAndByteArrayOS.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/Fifo.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/Fifo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/GInputStreamReader.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/GInputStreamReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx2/ReadFile.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx2/ReadFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx2/ReadPropertyUsingResourceBundle.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/FileIOEx2/ReadPropertyUsingResourceBundle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/Bhukhkhad.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/Bhukhkhad.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/Chickoo.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/Chickoo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/CompileTimePolymorphism.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/CompileTimePolymorphism.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/Food.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/Food.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/Mango.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/Mango.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/RunTimePolymorphism.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/RunTimePolymorphism.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/TestMul.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/TestMul.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/testC.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/PolymorphismEx/testC.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/Access.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/Access.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/AccessMain.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/AccessMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/FinalExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/FinalExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/FinalMain.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/FinalMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/TrimEx.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/accessModifiersAndThis/TrimEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/bindings/DogEarly.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/bindings/DogEarly.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/bindings/DogLate.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/bindings/DogLate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/bindings/LateOrDynamicBinding.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/bindings/LateOrDynamicBinding.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/encapsulationEx/EncapBean.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/encapsulationEx/EncapBean.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/encapsulationEx/EncapsulationEx.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/encapsulationEx/EncapsulationEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/exceptions/CheckedException.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/exceptions/CheckedException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/exceptions/MultipleExceptionsInSingleCatchBlock.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/exceptions/MultipleExceptionsInSingleCatchBlock.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/exceptions/UnCheckedException.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/exceptions/UnCheckedException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/I1.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/I1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/I2.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/I2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/Person.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/Printable.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/Printable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/PrintableTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/interfaces/PrintableTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/networling/URLConnectionExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/networling/URLConnectionExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading1.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading2.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading3.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading4.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading5.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/overloading/Overloading5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/overloading/OverridingExperiment.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/overloading/OverridingExperiment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/preferenceAPI/PreferenceExample1.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/preferenceAPI/PreferenceExample1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/regularExpressions/MatchingPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/regularExpressions/MatchingPattern.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/regularExpressions/RegexWithEmailValidation.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/regularExpressions/RegexWithEmailValidation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/serialization1/DeSerializationExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/serialization1/DeSerializationExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/serialization1/SerializationExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/serialization1/SerializationExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/serialization1/SerializeMain.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/serialization1/SerializeMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/serialization2/SampleData.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/serialization2/SampleData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/serialization2/TransientExampleDeSerializable.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/serialization2/TransientExampleDeSerializable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/serialization2/TransientExampleSerializable.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/serialization2/TransientExampleSerializable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/AggregationExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/AggregationExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Animal1.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Animal1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/CallByValue.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/CallByValue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ChildClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ChildClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ChildPublicClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ChildPublicClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/CloneEx.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/CloneEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/CommandLineArguement.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/CommandLineArguement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ComplexJavaClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ComplexJavaClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Date1.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Date1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/DateLocaleGetinstance.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/DateLocaleGetinstance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/EnemyShip.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/EnemyShip.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Enum.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Enum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/EqualsExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/EqualsExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/EqualsIgCase.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/EqualsIgCase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/FinalizeExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/FinalizeExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/FwSlash.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/FwSlash.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/GenericTypes.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/GenericTypes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Increment01.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Increment01.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/InfiniteLoops.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/InfiniteLoops.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Java7Literals.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Java7Literals.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LogFilter.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LogFilter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LogFilter1.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LogFilter1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LongVSLongOutputTime.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LongVSLongOutputTime.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MainClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MainClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MammalInt.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MammalInt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Maptest.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Maptest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MatchesVsEqualsIgnoreCase.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MatchesVsEqualsIgnoreCase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MathClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MathClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MethodOverRiding.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MethodOverRiding.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MyFirst.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MyFirst.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MyFirstPj.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MyFirstPj.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/OracleJDBC.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/OracleJDBC.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Oube.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Oube.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/PrivateConstructor.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/PrivateConstructor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Prm.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Prm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/QueueDeQueue.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/QueueDeQueue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/RandomVsSecureRandom.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/RandomVsSecureRandom.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ReflectionAPIClassclass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ReflectionAPIClassclass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ResourceBundleEx.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/ResourceBundleEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/SampleClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/SampleClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Session.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Session.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/SimpleSOP.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/SimpleSOP.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Stacktraceutil.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Stacktraceutil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Static_Variable.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Static_Variable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/StrBfr.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/StrBfr.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/StringClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/StringClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/StringMutImmut.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/StringMutImmut.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/StringSplitAndTokenuizer.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/StringSplitAndTokenuizer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/String_Tokenizer.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/String_Tokenizer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Test3.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Test3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/TestStringManipulation.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/TestStringManipulation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/TryCatchFinallyEx.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/TryCatchFinallyEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/TypeCastingExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/TypeCastingExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Unicode.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/Unicode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/absClassAndInstanceOf.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/absClassAndInstanceOf.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/breakContinue.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/breakContinue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/floor_cell.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/floor_cell.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/getid_mthd.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/getid_mthd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/getrealpath.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/getrealpath.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/smapleList.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/smapleList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/student.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/test1.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/test1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/testExceptionColln.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/testExceptionColln.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/testListAdd.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/testListAdd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/tests.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/tests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/typecast.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/singleprograms/typecast.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/StaticCallFromNullObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/StaticCallFromNullObject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/StaticMain.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/StaticMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/Static_Student.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/Static_Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/Static_Var.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/Static_Var.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/TestStatic.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/staticExample/TestStatic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/HashCode.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/HashCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/Split.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/Split.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/Substring.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/Substring.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/TestHashCode.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/TestHashCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/TestIsDigit.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/TestIsDigit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/intVSInteger.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/stringManipulation/intVSInteger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/superEx/Test_Super.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/superEx/Test_Super.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/thisO/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/thisO/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/thisO/ThisObj.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/thisO/ThisObj.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/threadFailEx/FailFastEx.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/threadFailEx/FailFastEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/threadFailEx/FailSafeEx.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/threadFailEx/FailSafeEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sample/threading/JoinThread.java" afterPath="$PROJECT_DIR$/src/main/java/com/sample/threading/JoinThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/database/jdbc/helloworld/AppTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/database/jdbc/helloworld/AppTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -352,7 +27,7 @@
       <file leaf-file-name="SampleHelloWorld001.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/InitialReferenceClasses001/SampleHelloWorld001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="220">
               <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
@@ -372,7 +47,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="748">
               <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
               <folding />
             </state>
@@ -382,7 +57,7 @@
       <file leaf-file-name="MethodOverRiding.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MethodOverRiding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="220">
               <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding />
             </state>
@@ -402,8 +77,8 @@
       <file leaf-file-name="LogFilter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LogFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="66">
+              <caret line="4" column="0" selection-start-line="2" selection-start-column="7" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -415,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LogFilter1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -719,9 +394,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1275,11 +950,12 @@
       <workItem from="1500954699797" duration="2348000" />
       <workItem from="1500960066975" duration="12044000" />
       <workItem from="1501338924560" duration="3128000" />
+      <workItem from="1501342080202" duration="86000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30314000" />
+    <option name="totallyTimeSpent" value="30400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -1287,32 +963,32 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35321638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.374269" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27414164" sideWeight="0.49052134" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27521458" sideWeight="0.5094787" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35321638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1362,10 +1038,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="e#756#757#0" expanded="false" />
-            <element signature="e#782#783#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1380,10 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#196#197#0" expanded="false" />
-            <element signature="e#222#223#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1413,10 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#196#197#0" expanded="false" />
-            <element signature="e#222#223#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1424,10 +1089,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#756#757#0" expanded="false" />
-            <element signature="e#782#783#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1443,10 +1105,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#196#197#0" expanded="false" />
-            <element signature="e#222#223#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1454,10 +1112,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding>
-            <element signature="e#756#757#0" expanded="false" />
-            <element signature="e#782#783#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1525,7 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1533,10 +1187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding>
-            <element signature="e#196#197#0" expanded="false" />
-            <element signature="e#222#223#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1551,10 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1501341944872" expanded="true" signature="1005:1024" ph="select id fr... test" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1562,7 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1570,9 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1580,7 +1222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1588,88 +1229,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/singleprograms/Session.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/overloading/Overloading5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/singleprograms/Session.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/overloading/Overloading5.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/exceptions/MultipleExceptionsInSingleCatchBlock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/singleprograms/InfiniteLoops.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/singleprograms/InfiniteLoops.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/database/jdbc/helloworld/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-            <element signature="e#545#546#0" expanded="false" />
-            <element signature="e#621#622#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/overloading/Overloading3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/overloading/Overloading3.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/bindings/DogLate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/singleprograms/MyFirstPj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/singleprograms/MyFirstPj.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/FileIOEx1/AndAndVsAnd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1677,9 +1269,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1687,7 +1276,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1695,13 +1283,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/singleprograms/MethodOverRiding.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="220">
           <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding />
         </state>
@@ -1717,7 +1304,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="748">
           <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding />
         </state>
@@ -1725,8 +1312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LogFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="66">
+          <caret line="4" column="0" selection-start-line="2" selection-start-column="7" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1759,7 +1346,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/InitialReferenceClasses001/SampleHelloWorld001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="220">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
@@ -1776,7 +1363,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/singleprograms/LogFilter1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

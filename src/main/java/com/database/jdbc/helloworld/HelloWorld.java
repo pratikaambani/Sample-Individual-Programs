@@ -9,7 +9,7 @@ import java.sql.Statement;
 /**
  * The Class HelloWorld.
  */
-public  class HelloWorld {
+public class HelloWorld {
 
 	/**
 	 * The main method.
@@ -18,7 +18,7 @@ public  class HelloWorld {
 	 * @throws ClassNotFoundException the class not found exception
 	 * @throws SQLException the SQL exception
 	 */
-	public  static void main(String[] args) throws ClassNotFoundException, SQLException {
+	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		// Loads the drive from the JDBC driver in Cache
 		Class.forName("org.postgresql.Driver");
 		// Creates connection with database with the credentials provided such as Database URL, username and password

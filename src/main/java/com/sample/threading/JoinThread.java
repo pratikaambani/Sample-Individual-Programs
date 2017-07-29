@@ -1,8 +1,8 @@
 package com.sample.threading;
 
-public  class JoinThread extends Thread {
+public class JoinThread extends Thread {
 
-	public  void run() {
+	public void run() {
 		for (int i = 1; i <= 5; i++) {
 			try {
 				Thread.sleep(500);
@@ -13,7 +13,7 @@ public  class JoinThread extends Thread {
 		}
 	}
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 
 		JoinThread t1 = new JoinThread();
 		JoinThread t2 = new JoinThread();

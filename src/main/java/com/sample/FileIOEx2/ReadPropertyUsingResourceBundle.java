@@ -2,9 +2,9 @@ package com.sample.FileIOEx2;
 
 import java.util.ResourceBundle;
 
-public  class ReadPropertyUsingResourceBundle {
+public class ReadPropertyUsingResourceBundle {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 
 		ResourceBundle rb = ResourceBundle.getBundle("AppResources");
 

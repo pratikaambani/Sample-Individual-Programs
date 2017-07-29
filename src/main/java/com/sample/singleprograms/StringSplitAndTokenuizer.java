@@ -2,9 +2,9 @@ package com.sample.singleprograms;
 
 import java.util.StringTokenizer;
 
-public  class StringSplitAndTokenuizer {
+public class StringSplitAndTokenuizer {
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 
 		StringTokenizer st = new StringTokenizer("Dont use this class, rather use split() of String class");
 

@@ -9,8 +9,8 @@ import java.util.Queue;
 import javax.naming.Context;
 import javax.naming.InitialContext;
 
-/*public  class QueueDeQueue {
-	public  static void main(String[] args) {
+/*public class QueueDeQueue {
+	public static void main(String[] args) {
 		try {
 			Hashtable env = new Hashtable();
 			env.put(Context.INITIAL_CONTEXT_FACTORY, "org.jnp.interfaces.NamingContextFactory");

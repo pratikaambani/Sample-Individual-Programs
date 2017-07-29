@@ -8,7 +8,7 @@ class SingletonClass {
 		System.out.println("Cons Ex Constructor.");
 	}
 
-public  static PrivateConstructor objCreationMethod() {
+public static PrivateConstructor objCreationMethod() {
 	if(pcObject == null) {
 		pcObject = (PrivateConstructor) new SingletonClass();
 	}
@@ -17,13 +17,13 @@ public  static PrivateConstructor objCreationMethod() {
 
 
 
-public  void display() {
+public void display() {
 	System.out.println("SingletonClass Example");
 }
 
-public  class PrivateConstructor extends SingletonClass {
+public class PrivateConstructor extends SingletonClass {
 
-	public  void main(String[] args) {
+	public void main(String[] args) {
 		
 		
 		SingletonClass scObject = SingletonClass.objCreationMethod();

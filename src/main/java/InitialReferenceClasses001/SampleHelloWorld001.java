@@ -3,11 +3,11 @@ package InitialReferenceClasses001;
 /**
  * Created by AmbaniP on 23/05/2017.
  */
-public  class SampleHelloWorld001 implements I1{
+public class SampleHelloWorld001 implements I1{
 
-    public  static int randomNumber = 10;
+    public static int randomNumber = 10;
 
-    public  static void main(String args[]){
+    public static void main(String args[]){
         System.out.println("Hello World!");
 
         SampleReference002 object = new SampleReference002();
@@ -26,12 +26,12 @@ public  class SampleHelloWorld001 implements I1{
         return a+b;
     }
 
-    public  void print1() {
+    public void print1() {
         System.out.println();
 
     }
 
-    public  void print2() {
+    public void print2() {
 
     }
 }
@@ -42,6 +42,6 @@ class C3 extends SampleHelloWorld001 {
 
 interface I1 {
 
-    public  void print1();
-    public  void print2();
+    public void print1();
+    public void print2();
 }

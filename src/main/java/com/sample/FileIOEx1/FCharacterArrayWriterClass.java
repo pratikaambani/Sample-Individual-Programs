@@ -4,8 +4,8 @@ import java.io.CharArrayWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public  class FCharacterArrayWriterClass {
-	public  static void main(String args[]) throws IOException {
+public class FCharacterArrayWriterClass {
+	public static void main(String args[]) throws IOException {
 
 		System.out.println("To write op into multiple files.");
 

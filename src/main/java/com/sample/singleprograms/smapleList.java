@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public  class smapleList {
+public class smapleList {
 
-	public  static List<Object> getAllResults() {
+	public static List<Object> getAllResults() {
 
 		List<Object> list1 = new ArrayList<Object>();
 		String t1 = "pratik1";

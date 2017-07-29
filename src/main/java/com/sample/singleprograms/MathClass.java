@@ -1,8 +1,8 @@
 package com.sample.singleprograms;
 
-public  class MathClass {
+public class MathClass {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		double d1 = 5.45;
 		

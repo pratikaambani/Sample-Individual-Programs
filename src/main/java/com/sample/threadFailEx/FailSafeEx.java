@@ -3,9 +3,9 @@ package com.sample.threadFailEx;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.Iterator;
 
-public  class FailSafeEx {
+public class FailSafeEx {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		ConcurrentHashMap<String, String> mValue = new ConcurrentHashMap<String, String>();
 		mValue.put("Apple", "iPhone");
 		mValue.put("HTC", "HTC one");

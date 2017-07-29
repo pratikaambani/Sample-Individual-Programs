@@ -1,8 +1,8 @@
 import java.util.Date;
 
-public  class Main {
+public class Main {
 
-    public  static void main(String[] args) {
+    public static void main(String[] args) {
 
         int a = 1321866544;
         System.out.println("Hello World!");

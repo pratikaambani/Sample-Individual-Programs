@@ -2,14 +2,14 @@ package com.sample.singleprograms;
 
 import java.io.File;
 
-public  class SampleClass {
+public class SampleClass {
 
-public  static void main(String[] args) {
+public static void main(String[] args) {
     final File folder = new File("//Sample/Project//src//");
 	listFilesForFolder(folder);
 }
 
-public  static void listFilesForFolder(final File folder) {
+public static void listFilesForFolder(final File folder) {
     for (final File fileEntry : folder.listFiles()) {
         if (fileEntry.isDirectory()) {
             listFilesForFolder(fileEntry);

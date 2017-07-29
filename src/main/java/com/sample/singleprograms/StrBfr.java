@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
-public  class StrBfr {
-	public  static void main(String args[]) {
+public class StrBfr {
+	public static void main(String args[]) {
 
 		String s = new String("Hellow");
 		StringBuffer sb = new StringBuffer("Hello ");

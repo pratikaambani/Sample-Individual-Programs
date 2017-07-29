@@ -1,13 +1,13 @@
 class SampleClass {
 
-	public  SampleClass() {
+	public SampleClass() {
 		System.out.println("Sample Class Constructor");
 	}
 
 	int a = 0;
 }
 
-public  class ReflectionAPIClassclass {
+public class ReflectionAPIClassclass {
 
 	int a = 0;
 
@@ -17,7 +17,7 @@ public  class ReflectionAPIClassclass {
 		System.out.println(c2.getName());
 	}
 
-	public  static void main(String args[]) throws ClassNotFoundException {
+	public static void main(String args[]) throws ClassNotFoundException {
 
 		int a = 0;
 

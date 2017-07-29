@@ -1,8 +1,8 @@
 package com.sample.bindings;
 
-public  class LateOrDynamicBinding {
+public class LateOrDynamicBinding {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		// Vehicle v = new Vehicle();
 		Vehicle v = new Car();
 		v.start();
@@ -11,14 +11,14 @@ public  class LateOrDynamicBinding {
 
 class Vehicle {
 
-	public  void start() {
+	public void start() {
 		System.out.println("Inside Vehcle class");
 	}
 }
 
 class Car extends Vehicle {
 
-	public  void start() {
+	public void start() {
 		System.out.println("Inside Car class");
 	}
 }

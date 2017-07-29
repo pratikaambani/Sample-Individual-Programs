@@ -2,8 +2,8 @@ package com.sample.exceptions;
 
 import java.io.FileNotFoundException;
 
-public  class MultipleExceptionsInSingleCatchBlock {
-	public  static void main(String args[]) {
+public class MultipleExceptionsInSingleCatchBlock {
+	public static void main(String args[]) {
 
 		try {
 			int a = 1 / 0;

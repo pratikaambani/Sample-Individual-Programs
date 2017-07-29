@@ -12,8 +12,8 @@ class Z extends X {
 
 // X is a supper class of Y and Z which are sibblings.
 
-public  class typecast {
-	public  static void main(String args[]) {
+public class typecast {
+	public static void main(String args[]) {
 
 		int i;
 		double j = 7.48;

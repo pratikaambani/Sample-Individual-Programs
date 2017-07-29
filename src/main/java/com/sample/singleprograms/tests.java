@@ -5,11 +5,11 @@ import java.util.Enumeration;
 import java.util.List;
 import java.util.Vector;
 
-public  class tests {
+public class tests {
 
 	// 1. Vector + Enum
 	/*
-	 * public  static void main(String[] args) { // TODO Auto-generated method
+	 * public static void main(String[] args) { // TODO Auto-generated method
 	 * stub Vector v = new Vector(); System.out.println("size = " + v.size());
 	 * v.add("A"); v.add("M"); v.add("B"); v.add("A"); v.add("N"); v.add("I");
 	 * 
@@ -30,18 +30,18 @@ public  class tests {
 	 * System.out.println("Values are =  " + stringArray[a]); } }
 	 */
 
-	public  static final String a = "Testing";
+	public static final String a = "Testing";
 
 	int i;
 
-	public  tests() {
+	public tests() {
 
 		final String value = "This";
 		System.out.println("val = " + value);
 
 	}
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 
 		System.out.println("");
 

@@ -1,13 +1,13 @@
 package com.sample.singleprograms;
 
 
-public  class FinalizeExample {
+public class FinalizeExample {
 
-	public  void finalize() {
+	public void finalize() {
 		System.out.println("This is printed in last");
 	}
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 
 		FinalizeExample fE1 = new FinalizeExample();
 		FinalizeExample fE2 = new FinalizeExample();

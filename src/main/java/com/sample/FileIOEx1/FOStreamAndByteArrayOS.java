@@ -9,9 +9,9 @@ import java.io.SequenceInputStream;
 import java.io.UnsupportedEncodingException;
 import java.io.*;
 
-public  class FOStreamAndByteArrayOS {
+public class FOStreamAndByteArrayOS {
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 
 		System.out.println("FileOutputStream.");
 

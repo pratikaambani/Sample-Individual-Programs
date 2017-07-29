@@ -3,9 +3,9 @@ package com.sample.FileIOEx1;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public  class Fifo {
+public class Fifo {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		String fos1 = "\\\\tsclient//D//Xtra//fileOutputStream1.txt";

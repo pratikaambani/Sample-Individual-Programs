@@ -4,9 +4,9 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public  class CheckedException {
+public class CheckedException {
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 
 		System.out.println("Here nothing is handled so it throws "
 				+ "error at compile time and hence this is "

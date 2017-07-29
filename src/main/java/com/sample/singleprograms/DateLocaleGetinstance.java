@@ -4,9 +4,9 @@ import java.util.Calendar;
 import java.util.Locale;
 import java.util.TimeZone;
 
-public  class DateLocaleGetinstance {
+public class DateLocaleGetinstance {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 
 		Locale locale1 = Locale.ITALY;
 

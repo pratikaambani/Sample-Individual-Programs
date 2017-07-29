@@ -1,6 +1,6 @@
 package com.sample.singleprograms;
 
 
-public  abstract class EnemyShip {
+public abstract class EnemyShip {
 
 }

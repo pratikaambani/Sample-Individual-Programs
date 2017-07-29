@@ -1,7 +1,7 @@
 package com.sample.interfaces;
 
-public  class PrintableTest {
-	public  static void main(String[] args) {
+public class PrintableTest {
+	public static void main(String[] args) {
 		Person p = new Person();
 		Stock s = new Stock();
 

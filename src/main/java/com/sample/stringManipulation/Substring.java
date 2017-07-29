@@ -1,7 +1,7 @@
 package com.sample.stringManipulation;
 
-public  class Substring {
-	public  static void main(String args[]) {
+public class Substring {
+	public static void main(String args[]) {
 
 		String alphabets = "abcdefghijklmnopqerstuvwxyz";
 

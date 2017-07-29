@@ -1,7 +1,7 @@
 
-public  class TestStringManipulation {
+public class TestStringManipulation {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		String s = "0pratik.a.ambani@relianceada.com";

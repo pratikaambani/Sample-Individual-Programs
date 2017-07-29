@@ -2,18 +2,18 @@ package com.sample.singleprograms;
 
 import javax.servlet.http.HttpServletRequest;
 
-public  class getrealpath {
+public class getrealpath {
 
 	private HttpServletRequest servletRequest;
 
-	public  String execute() {
+	public String execute() {
 		// The method getRealPath(String) from the type ServletRequest is
 		// deprecated
 		String filePath = servletRequest.getRealPath("/");
 		return filePath;
 	}
 
-	public  void setServletRequest(HttpServletRequest arg0) {
+	public void setServletRequest(HttpServletRequest arg0) {
 		this.servletRequest = arg0;
 	}
 

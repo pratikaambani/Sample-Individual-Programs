@@ -1,8 +1,8 @@
 package com.sample.singleprograms;
 
-public  class ComplexJavaClass {
+public class ComplexJavaClass {
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 
 		char x = 'X';
 		int i = 0;

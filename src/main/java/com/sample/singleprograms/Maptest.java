@@ -7,9 +7,9 @@ import java.util.Map;
 import java.util.Set;
 import java.util.ArrayList;
 
-public  class Maptest {
+public class Maptest {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		Map<String, String> lists = new HashMap<String, String>();
 		lists.put("1", "P");
 		lists.put("2", "R");

@@ -1,13 +1,13 @@
 package com.sample.staticExample;
 
-public  class TestStatic {
+public class TestStatic {
 
 	private String first;
 	private String last;
 	// Test by removing static from below int
 	private int members = 0;
 
-	public  TestStatic(String f, String l) {
+	public TestStatic(String f, String l) {
 		first = f;
 		last = l;
 		members++;
@@ -16,15 +16,15 @@ public  class TestStatic {
 				first, last, members);
 	}
 
-	public  String getFirst() {
+	public String getFirst() {
 		return first;
 	}
 
-	public  String getLast() {
+	public String getLast() {
 		return last;
 	}
 
-	public  int getMembers() {
+	public int getMembers() {
 		return members;
 	}
 

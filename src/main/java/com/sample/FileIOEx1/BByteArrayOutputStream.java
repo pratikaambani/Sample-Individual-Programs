@@ -5,9 +5,9 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public  class BByteArrayOutputStream {
+public class BByteArrayOutputStream {
 
-	public  static void main(String args[]) throws IOException {
+	public static void main(String args[]) throws IOException {
 
 		System.out.println("To write into multiple files.");
 

@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
-public  class TryCatchFinallyEx {
-	public  static void main(String args[]) {
+public class TryCatchFinallyEx {
+	public static void main(String args[]) {
 
 		try {
 			System.out.println("Calculate = " + (10 / 0));

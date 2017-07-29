@@ -19,7 +19,7 @@ class ParentClass {
 		clear();
 	}
 
-	public  static void clear() {
+	public static void clear() {
 		/*
 		 * try { Runtime.getRuntime().exec("cls"); } catch (IOException e) {
 		 * e.printStackTrace(); }
@@ -29,7 +29,7 @@ class ParentClass {
 
 }
 
-public  class ChildClass extends ParentClass {
+public class ChildClass extends ParentClass {
 
 	static {
 		System.out.println("2. Inside Static of ChildClass \n");
@@ -46,7 +46,7 @@ public  class ChildClass extends ParentClass {
 		clear();
 	}
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		ChildClass t = new ChildClass();
 
 		// ChildClass t2 = new ChildClass();

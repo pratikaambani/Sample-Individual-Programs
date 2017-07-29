@@ -1,23 +1,23 @@
 package com.sample.accessModifiersAndThis;
 
-public  class Access {
+public class Access {
 
 	private int a = 1;
 	private int b = 2;
 	private int c = 3;
 
-	public  void setValues(int a, int b, int c) {
+	public void setValues(int a, int b, int c) {
 		this.a = a;
 		this.b = b;
 		this.c = c;
 	}
 
-	public  String toHour() {
+	public String toHour() {
 		String g = "a = " + a + " b = " + b + " c = " + c;
 		return g;
 	}
 
-	public  String toMin() {
+	public String toMin() {
 		String f = "a = " + a * 10 + " b = " + b * 10 + " c = " + c * 10;
 		return f;
 	}

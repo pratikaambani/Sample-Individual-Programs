@@ -2,8 +2,8 @@ package com.sample.regularExpressions;
 
 import java.util.regex.Pattern;
 
-public  class MatchingPattern {
-	public  static void main(String args[]) {
+public class MatchingPattern {
+	public static void main(String args[]) {
 		System.out.println(Pattern.matches(".s", "as"));// true (2nd char is s)
 		System.out.println(Pattern.matches(".s", "aaas"));
 		System.out.println(Pattern.matches(".s", "mk"));// false (2nd char is

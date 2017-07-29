@@ -5,9 +5,9 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public  class AFileOSIN {
+public class AFileOSIN {
 
-	public  static void main(String args[]) throws IOException {
+	public static void main(String args[]) throws IOException {
 
 		String text = "This is Development of File IO on 48.28";
 

@@ -1,9 +1,9 @@
 package com.sample.overloading;
 
 
-public  class OverridingExperiment {
+public class OverridingExperiment {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 
 		System.out.println("Overriding");
 

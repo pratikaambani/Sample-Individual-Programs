@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
 
-public  class CallByValue {
+public class CallByValue {
 
 	int val = 50;
 
@@ -10,7 +10,7 @@ public  class CallByValue {
 		return val;
 	}
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		CallByValue cbv = new CallByValue();

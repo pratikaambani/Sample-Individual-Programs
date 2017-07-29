@@ -3,9 +3,9 @@ package com.sample.regularExpressions;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public  class RegexWithEmailValidation {
+public class RegexWithEmailValidation {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 
 		String eMail = "pratikaambani@gmail.com.";
 

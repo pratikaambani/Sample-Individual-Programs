@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
 
-public  interface Animal1 {
+public interface Animal1 {
 
 	int a = 3;
 

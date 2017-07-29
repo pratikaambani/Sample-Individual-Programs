@@ -1,8 +1,8 @@
 
 import java.util.Vector;
 
-public  class testExceptionColln {
-	public  static void main(String[] args) {
+public class testExceptionColln {
+	public static void main(String[] args) {
 		// Create a list of names
 
 		testExceptionColln classname = new testExceptionColln();

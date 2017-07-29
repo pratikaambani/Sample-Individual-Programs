@@ -1,6 +1,6 @@
 package com.sample.thisO;
 
-public  class Test {
+public class Test {
 
 	int a = 20;
 

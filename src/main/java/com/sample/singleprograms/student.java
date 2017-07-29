@@ -11,7 +11,7 @@ class student {
 		System.out.println(id1 + " " + name1);
 	}
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 		student s1 = new student(234, "Pappu");
 		student s2 = new student(432, "Feku");
 		s1.display();

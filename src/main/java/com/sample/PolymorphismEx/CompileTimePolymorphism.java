@@ -12,9 +12,9 @@ class SuperC {
 
 }
 
-public  class CompileTimePolymorphism extends SuperC {
+public class CompileTimePolymorphism extends SuperC {
 
-	public  static void main(String args[]) {
+	public static void main(String args[]) {
 
 		System.out.println("Compile Time Polymorphism");
 		System.out.println("Nothing but Method Overloading.");

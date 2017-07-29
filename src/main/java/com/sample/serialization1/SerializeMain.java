@@ -5,9 +5,9 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 
-public  class SerializeMain {
+public class SerializeMain {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 
 		SerializationExample sE = new SerializationExample();
 		sE.name = "Pratik";

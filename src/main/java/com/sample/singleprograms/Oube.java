@@ -2,8 +2,8 @@ package com.sample.singleprograms;
 
 import java.util.ArrayList;
 
-public  class Oube {
-	public  static void main(String[] args) {
+public class Oube {
+	public static void main(String[] args) {
 
 		ArrayList<String> list = new ArrayList<String>();
 

@@ -1,7 +1,7 @@
 package com.sample.PolymorphismEx;
 
-public  class RunTimePolymorphism {
-	public  static void main(String args[]) {
+public class RunTimePolymorphism {
+	public static void main(String args[]) {
 
 		// Normal Polymorphism
 		Food f1 = new Mango();

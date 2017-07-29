@@ -2,9 +2,9 @@ package com.sample.singleprograms;
 
 import java.util.ResourceBundle;
 
-public  class ResourceBundleEx {
+public class ResourceBundleEx {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 
 		ResourceBundle rb = ResourceBundle.getBundle("appres");
 

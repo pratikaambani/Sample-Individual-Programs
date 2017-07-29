@@ -1,5 +1,5 @@
-public  class floor_cell {
-	public  static void main(String[] args) {
+public class floor_cell {
+	public static void main(String[] args) {
 
 		double d = -100.675;
 		float f = -90;

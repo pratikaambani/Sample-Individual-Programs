@@ -1,9 +1,9 @@
 package com.sample.singleprograms;
 
 
-public  class Unicode {
+public class Unicode {
 
-	public  static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		byte a = 0;
