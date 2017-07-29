@@ -4,17 +4,17 @@ class Room<T> {
 
 	private T t;
 
-	public void add(T t) {
+	public  void add(T t) {
 		this.t = t;
 	}
 
-	public T get() {
+	public  T get() {
 		return t;
 	}
 }
 
-public class GenericTypes {
-	public static void main(String[] args) {
+public  class GenericTypes {
+	public  static void main(String[] args) {
 		Room<Integer> room = new Room<Integer>();
 		room.add(60);
 		room.add(160);

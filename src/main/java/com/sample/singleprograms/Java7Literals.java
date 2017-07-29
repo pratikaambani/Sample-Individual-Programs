@@ -1,8 +1,8 @@
 package com.sample.singleprograms;
 
-public class Java7Literals {
+public  class Java7Literals {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		
 		int a = 1;
 		byte b = 0b0111;

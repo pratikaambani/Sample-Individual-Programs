@@ -1,5 +1,5 @@
 package com.sample.interfaces;
 
-public interface Printable {
+public  interface Printable {
 	void printAll();
 }

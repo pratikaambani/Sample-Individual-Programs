@@ -2,10 +2,10 @@ package com.sample.preferenceAPI;
 
 import java.util.prefs.Preferences;
 
-public class PreferenceExample1 {
+public  class PreferenceExample1 {
 	private Preferences prefs;
 
-	public void setPreference() {
+	public  void setPreference() {
 		// This will define a node in which the preferences can be stored
 		prefs = Preferences.userRoot().node(this.getClass().getName());
 		String ID1 = "Test1";
@@ -30,7 +30,7 @@ public class PreferenceExample1 {
 
 	}
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		PreferenceExample1 test = new PreferenceExample1();
 		test.setPreference();
 	}

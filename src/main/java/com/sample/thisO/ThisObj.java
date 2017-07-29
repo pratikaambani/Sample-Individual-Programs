@@ -1,8 +1,8 @@
 package com.sample.thisO;
 
-public class ThisObj {
+public  class ThisObj {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 
 		// When we pass an object, as parameter to the output statement
 		// internally toString() method of that

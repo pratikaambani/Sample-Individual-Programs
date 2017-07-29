@@ -2,7 +2,7 @@
  * Created by AmbaniP on 16/07/2017.
  */
 class IncDec {
-    public static void main(String args[]) {
+    public  static void main(String args[]) {
         int a = 1;
         int b = 2;
         int c;

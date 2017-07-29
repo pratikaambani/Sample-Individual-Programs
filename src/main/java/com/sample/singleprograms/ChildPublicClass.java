@@ -7,16 +7,16 @@ class ParentClass1 {
 		System.out.println("Constr ParentClass1()");
 	}
 
-	public void methodEx() {
+	public  void methodEx() {
 		System.out.println("Inside method of SuperClass");
 	}
 
-	public void anotherMethod() {
+	public  void anotherMethod() {
 		System.out.println("Inside another method of Super Class.");
 	}
 }
 
-public class ChildPublicClass extends ParentClass1 {
+public  class ChildPublicClass extends ParentClass1 {
 
 	ChildPublicClass() {
 		System.out.println("Constr of ChildPublicClass().");
@@ -26,15 +26,15 @@ public class ChildPublicClass extends ParentClass1 {
 		System.out.println("Constr ParentClass1()");
 	}
 
-	public void methodEx() {
+	public  void methodEx() {
 		System.out.println("Inside method of SubClass");
 	}
 
 	/*
-	 * public void anotherMethod() { System.out.println(
+	 * public  void anotherMethod() { System.out.println(
 	 * "Inside another method of Sub Class."); }
 	 */
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 
 		System.out.println("This is example of Method Overriding");
 

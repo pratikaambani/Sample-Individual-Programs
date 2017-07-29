@@ -1,7 +1,7 @@
 
 abstract class Shape1 {
 
-	public Shape1() {
+	public  Shape1() {
 		System.out.println("Constructor of Shape1 class");
 	}
 
@@ -35,7 +35,7 @@ class Square1 extends Shape1 {
 
 class test1 {
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 		Shape1 s1 = new Circle1();
 		s1.draw1();
 

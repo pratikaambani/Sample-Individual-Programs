@@ -4,9 +4,9 @@ import java.io.Writer;
 
 // To return the stack trace of an exception as a string
 
-public final class Stacktraceutil {
+public  final class Stacktraceutil {
 
-	public static String getStackTrace(Throwable aThrowable) {
+	public  static String getStackTrace(Throwable aThrowable) {
 
 		Writer result = new StringWriter();
 		PrintWriter printWriter = new PrintWriter(result);
@@ -14,7 +14,7 @@ public final class Stacktraceutil {
 		return result.toString();
 	}
 
-	public static String getCustomStackTrace(Throwable aThrowable) {
+	public  static String getCustomStackTrace(Throwable aThrowable) {
 
 		StringBuilder result = new StringBuilder("BOO-BOO: ");
 		result.append(aThrowable.toString());
@@ -29,7 +29,7 @@ public final class Stacktraceutil {
 		return result.toString();
 	}
 
-	public static void main(String... aArguments) {
+	public  static void main(String... aArguments) {
 		final Throwable throwable = new IllegalArgumentException("Blah");
 		System.out.println(getStackTrace(throwable));
 		System.out.println(getCustomStackTrace(throwable));

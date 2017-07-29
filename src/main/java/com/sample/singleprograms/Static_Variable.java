@@ -1,6 +1,6 @@
 package com.sample.singleprograms;
 
-public class Static_Variable {
+public  class Static_Variable {
 	static int a;
 
 	// int a;
@@ -15,7 +15,7 @@ public class Static_Variable {
 		System.out.println(a);
 	}
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 
 		Static_Variable t1 = new Static_Variable();
 		Static_Variable t2 = new Static_Variable();

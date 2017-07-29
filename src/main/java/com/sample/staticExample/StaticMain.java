@@ -1,7 +1,7 @@
 package com.sample.staticExample;
 
-public class StaticMain {
-	public static void main(String args[]) {
+public  class StaticMain {
+	public  static void main(String args[]) {
 
 		TestStatic tS1 = new TestStatic("Pratik", "Ambani");
 		TestStatic tS2 = new TestStatic("Another", "Value");

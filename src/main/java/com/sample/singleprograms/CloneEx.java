@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
-public class CloneEx implements Cloneable {
-	public static void main(String arge[]) {
+public  class CloneEx implements Cloneable {
+	public  static void main(String arge[]) {
 
 		CloneEx cx = new CloneEx();
 

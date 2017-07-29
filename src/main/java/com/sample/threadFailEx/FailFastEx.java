@@ -4,9 +4,9 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-public class FailFastEx {
+public  class FailFastEx {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		Map<String, String> mValue = new HashMap<String, String>();
 		mValue.put("One", "This ");
 		mValue.put("Two", "is ");

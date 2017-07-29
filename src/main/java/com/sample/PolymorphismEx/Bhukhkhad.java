@@ -1,8 +1,8 @@
 package com.sample.PolymorphismEx;
 
-public class Bhukhkhad {
+public  class Bhukhkhad {
 
-	public void pachaao(Food fx) {
+	public  void pachaao(Food fx) {
 		fx.eat();
 	}
 

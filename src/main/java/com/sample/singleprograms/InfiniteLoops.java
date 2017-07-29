@@ -1,8 +1,8 @@
 package com.sample.singleprograms;
 
-public class InfiniteLoops {
+public  class InfiniteLoops {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		
 		System.out.println("These are examples of Infinite Loops.");
 		

@@ -9,7 +9,7 @@ class Overloading1 {
 		System.out.println(a + b + c);
 	}
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 		Overloading1 obj = new Overloading1();
 		obj.sum(10, 10, 10);
 		obj.sum(20, 20);

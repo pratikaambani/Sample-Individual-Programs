@@ -9,7 +9,7 @@ class Overloading5 {
 		System.out.println("b method invoked");
 	}
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 		Overloading5 obj = new Overloading5();
 		System.out.println("uncomment below line");
 //		obj.sum(20, 20);// now ambiguity

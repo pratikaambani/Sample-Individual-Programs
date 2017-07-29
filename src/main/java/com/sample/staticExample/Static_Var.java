@@ -13,7 +13,7 @@ class Static_Var {
 		System.out.println(count);
 	}
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 
 		Static_Var c1 = new Static_Var();
 		Static_Var c2 = new Static_Var();

@@ -7,9 +7,9 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class DBufferredOutputStream {
+public  class DBufferredOutputStream {
 
-	public static void main(String[] args) throws IOException {
+	public  static void main(String[] args) throws IOException {
 
 		String text = "This is Development of File IO on 48.28 - BufferedOutputStream";
 

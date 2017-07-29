@@ -3,9 +3,9 @@ package com.sample.stringManipulation;
 
 import java.util.Date;
 
-public class intVSInteger {
+public  class intVSInteger {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		Integer capsInt1 = new Integer(5);

@@ -3,9 +3,9 @@ package com.sample.singleprograms;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class breakContinue {
+public  class breakContinue {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		final Logger log = LoggerFactory.getLogger(breakContinue.class);
 
 		System.out.println("starting loop:");

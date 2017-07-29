@@ -9,7 +9,7 @@ import java.sql.SQLException;
  * 
  * @author ambaniP
  */
-public class App {
+public  class App {
 
 	/**
 	 * The main method.
@@ -17,7 +17,7 @@ public class App {
 	 * @param args
 	 *            the arguments
 	 */
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		System.out.println("-------- PostgreSQL " + "JDBC Connection Testing ------------");
 
 		try {

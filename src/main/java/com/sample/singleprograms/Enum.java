@@ -4,10 +4,10 @@ import java.util.BitSet;
 import java.util.Enumeration;
 import java.util.Vector;
 
-public class Enum {
+public  class Enum {
 
 	@SuppressWarnings("unchecked")
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		Enumeration<String> e;

@@ -1,8 +1,8 @@
 package com.sample.singleprograms;
 
-public class StringClass {
+public  class StringClass {
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 
 		String aTz = "abcg";
 		String dTz = "abcdefg";

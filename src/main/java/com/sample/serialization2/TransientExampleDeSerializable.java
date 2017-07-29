@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.ObjectInputStream;
 
 class TransientExampleDeSerializable {
-	public static void main(String args[]) throws Exception {
+	public  static void main(String args[]) throws Exception {
 
 		try {
 			ObjectInputStream in = new ObjectInputStream(new FileInputStream("c://p.txt"));

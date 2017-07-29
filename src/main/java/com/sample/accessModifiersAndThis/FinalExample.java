@@ -1,19 +1,19 @@
 package com.sample.accessModifiersAndThis;
 
-public class FinalExample {
+public  class FinalExample {
 
 	private int sum;
 	private final int NUMBER;
 
-	public FinalExample(int a) {
+	public  FinalExample(int a) {
 		NUMBER = a;
 	}
 
-	public void add() {
+	public  void add() {
 		sum += NUMBER;
 	}
 
-	public String toString() {
+	public  String toString() {
 		return String.format("Sum = %d \n", sum);
 	}
 

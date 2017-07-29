@@ -1,8 +1,8 @@
 package com.sample.singleprograms;
 
-public class TypeCastingExample {
+public  class TypeCastingExample {
 	
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 		
 		long l = 444444444;
 		

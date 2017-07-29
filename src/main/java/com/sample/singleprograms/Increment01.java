@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
-public class Increment01 {
-	public static void main(String[] args) {
+public  class Increment01 {
+	public  static void main(String[] args) {
 		int a;
 
 		a = 4;

@@ -2,7 +2,7 @@
  * Created by AmbaniP on 16/07/2017.
  */
 class TyprConversion {
-    public static void main(String args[]) {
+    public  static void main(String args[]) {
         byte b = 42;
         char c = 'a';
         short s = 1024;

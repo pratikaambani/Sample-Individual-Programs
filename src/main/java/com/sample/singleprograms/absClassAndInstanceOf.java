@@ -2,7 +2,7 @@ package com.sample.singleprograms;
 
 abstract class Shape {
 
-	public Shape() {
+	public  Shape() {
 		System.out.println("Constructor of Shape class");
 	}
 
@@ -49,7 +49,7 @@ class Square extends Shape {
 
 class absClassAndInstanceOf {
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 		Shape s1 = new Circle();
 		s1.draw();
 

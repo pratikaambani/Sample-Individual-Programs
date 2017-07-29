@@ -1,9 +1,9 @@
 package com.sample.singleprograms;
 
 
-public class LongVSLongOutputTime {
+public  class LongVSLongOutputTime {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 
 		System.out.println("Advantage of using primitive types");
 		Long sum = 0L; // uses Long, not long

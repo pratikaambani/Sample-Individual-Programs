@@ -4,9 +4,9 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class UnCheckedException {
+public  class UnCheckedException {
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 
 		int i = 10;
 		int j = 0;

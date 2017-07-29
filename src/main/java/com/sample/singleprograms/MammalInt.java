@@ -1,9 +1,9 @@
 package com.sample.singleprograms;
 
 
-public class MammalInt implements Animal1 {
+public  class MammalInt implements Animal1 {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MammalInt mml = new MammalInt();
 		mml.eat();
@@ -13,14 +13,14 @@ public class MammalInt implements Animal1 {
 	}
 
 	@Override
-	public void eat() {
+	public  void eat() {
 		// TODO Auto-generated method stub
 		System.out.println("tyhey eat");
 
 	}
 
 	@Override
-	public void sleep() {
+	public  void sleep() {
 		// TODO Auto-generated method stub
 		System.out.println("they sleep");
 	}

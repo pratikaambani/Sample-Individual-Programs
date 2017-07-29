@@ -1,7 +1,7 @@
 package com.sample.stringManipulation;
 
-public class Split {
-	public static void main(String args[]) {
+public  class Split {
+	public  static void main(String args[]) {
 
 		String banner = new String(",Wel,come,to,Civili,zation,3.0");
 

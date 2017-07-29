@@ -1,8 +1,8 @@
 package com.sample.encapsulationEx;
 
-public class EncapsulationEx {
+public  class EncapsulationEx {
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 		EncapBean encap = new EncapBean();
 		encap.setName("James");
 		encap.setAge(20);

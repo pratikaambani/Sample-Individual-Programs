@@ -11,7 +11,7 @@ class DogLate extends Animal {
 		System.out.println("dog is eating...");
 	}
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 		Animal a = new DogLate();
 		a.eat();
 	}

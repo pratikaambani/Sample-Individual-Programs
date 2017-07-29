@@ -1,8 +1,8 @@
 package com.sample.singleprograms;
 
-public class EqualsIgCase {
+public  class EqualsIgCase {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 
 		String s1 = "Pratik";
 		String s2 = "Test";

@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
 class getid_mthd {
-	public static void main(String[] onfire) {
+	public  static void main(String[] onfire) {
 		System.out.println("main...");
 		Thread r1 = new Thread("r1");
 		Thread r2 = new Thread("r2");

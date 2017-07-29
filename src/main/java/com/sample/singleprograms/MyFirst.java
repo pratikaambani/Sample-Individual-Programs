@@ -1,25 +1,25 @@
 package com.sample.singleprograms;
 
 
-public class MyFirst {
+public  class MyFirst {
 	private String name;
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		for (String arg : args) {
 			MyFirst pojo = new MyFirst(arg); // Here's how you create a POJO
 			System.out.println(pojo);
 		}
 	}
 
-	public MyFirst(String name) {
+	public  MyFirst(String name) {
 		this.name = name;
 	}
 
-	public String getName() {
+	public  String getName() {
 		return this.name;
 	}
 
-	public String toString() {
+	public  String toString() {
 		return this.name;
 	}
 }

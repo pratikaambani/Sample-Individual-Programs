@@ -1,7 +1,7 @@
 package com.sample.encapsulationEx;
 
 
-public class EncapBean {
+public  class EncapBean {
 
 	private String name;
 	private String idNum;
@@ -11,23 +11,23 @@ public class EncapBean {
 		return age;
 	}
 
-	public String getName() {
+	public  String getName() {
 		return name;
 	}
 
-	public String getIdNum() {
+	public  String getIdNum() {
 		return idNum;
 	}
 
-	public void setAge(int newAge) {
+	public  void setAge(int newAge) {
 		age = newAge;
 	}
 
-	public void setName(String newName) {
+	public  void setName(String newName) {
 		name = newName;
 	}
 
-	public void setIdNum(String newId) {
+	public  void setIdNum(String newId) {
 		idNum = newId;
 	}
 }

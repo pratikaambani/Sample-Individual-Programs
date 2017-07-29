@@ -5,9 +5,9 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 
-public class DeSerializationExample {
+public  class DeSerializationExample {
 
-	public static void main(String args[]) {
+	public  static void main(String args[]) {
 
 		SerializationExample sE = null;
 

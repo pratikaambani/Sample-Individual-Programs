@@ -7,8 +7,8 @@ import java.io.SequenceInputStream;
 
 import javax.sound.midi.Sequence;
 
-public class CSequenceInputStream {
-	public static void main(String args[]) throws IOException {
+public  class CSequenceInputStream {
+	public  static void main(String args[]) throws IOException {
 
 		String fis1 = "\\\\tsclient//D//Xtra//fileOutputStream1.txt";
 		String fis2 = "\\\\tsclient//D//Xtra//fileOutputStream2.txt";

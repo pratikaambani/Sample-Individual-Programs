@@ -1,8 +1,8 @@
 package com.sample.accessModifiersAndThis;
 
-public class FinalMain {
+public  class FinalMain {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		FinalExample fE = new FinalExample(10);
 
 		for (int i = 0; i < 5; i++) {

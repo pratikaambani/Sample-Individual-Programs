@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
-public class CommandLineArguement {
-	public static void main(String args[]) {
+public  class CommandLineArguement {
+	public  static void main(String args[]) {
 
 		System.out.println("Running this program will cause error "
 				+ "as we are supposed to provide input "

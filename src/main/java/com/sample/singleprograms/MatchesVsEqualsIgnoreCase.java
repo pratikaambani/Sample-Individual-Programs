@@ -2,9 +2,9 @@ package com.sample.singleprograms;
 
 
 
-public class MatchesVsEqualsIgnoreCase {
+public  class MatchesVsEqualsIgnoreCase {
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 
 		System.out.println("Start");
 

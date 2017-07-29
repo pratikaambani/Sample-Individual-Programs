@@ -1,9 +1,9 @@
 package com.sample.singleprograms;
 
-public class EqualsExample {
+public  class EqualsExample {
 
 	@SuppressWarnings("null")
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 
 		String compareExample = null;
 

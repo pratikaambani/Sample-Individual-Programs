@@ -1,6 +1,6 @@
 
-public class FwSlash {
-	public static void main(String args[]) {
+public  class FwSlash {
+	public  static void main(String args[]) {
 
 		String withSlash = "google.com/Sagar";
 		System.out.println("withSlash = " + withSlash);

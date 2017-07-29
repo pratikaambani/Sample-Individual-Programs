@@ -1,10 +1,10 @@
 package com.sample.staticExample;
 
-public class StaticCallFromNullObject {
+public  class StaticCallFromNullObject {
 
-	public static int a = 1;
+	public  static int a = 1;
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 
 		System.out.println("We can call static method from null object.");
 		System.out.println("Here it is how.");
@@ -18,7 +18,7 @@ public class StaticCallFromNullObject {
 		StaticCallFromNullObject.aStaticMethod();
 	}
 
-	public static void aStaticMethod() {
+	public  static void aStaticMethod() {
 
 		System.out.println("This text is from static method --> " + (a++) + "time..");
 	}
