@@ -12,12 +12,10 @@ public class AndAndVsAnd {
 		
 		String xBinay = Integer.toBinaryString(x);
 		String yBinay = Integer.toBinaryString(y);
-		
-				
+
+		System.out.println("Uncomment below line");
 //		String z = Integer.toBinaryString(y) & Integer.toBinaryString(y);
-		
-		
-		System.out.println("z = " +z);
+//		System.out.println("z = " +z);
 		
 		if(x>0 && x<50) {
 			System.out.println("Yep, Inside range.");
