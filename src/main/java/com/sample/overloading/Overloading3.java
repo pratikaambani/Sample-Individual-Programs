@@ -1,4 +1,4 @@
-package sample.overloading;
+package com.sample.overloading;
 
 
 class Overloading3 {

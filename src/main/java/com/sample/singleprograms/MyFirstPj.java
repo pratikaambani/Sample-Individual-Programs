@@ -1,4 +1,4 @@
-package sample.singleprograms;
+package com.sample.singleprograms;
 
 import com.sample.singleprograms.MyFirst;
 
