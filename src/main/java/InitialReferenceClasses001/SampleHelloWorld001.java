@@ -10,6 +10,8 @@ public class SampleHelloWorld001 implements I1{
     public static void main(String args[]){
         System.out.println("Hello World!");
 
+        String objectCount = new String("Sample");
+
         SampleReference002 object = new SampleReference002();
 
         System.out.println("This class Number value: " +randomNumber);

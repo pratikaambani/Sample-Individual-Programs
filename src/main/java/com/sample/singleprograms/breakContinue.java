@@ -12,7 +12,7 @@ public class breakContinue {
 
 		log.info("SOP inserted.");
 
-		for (int n = 0; n < 7; ++n) {
+		for (int n = 0; n < 7; n++) {
 			System.out.println("in loop: " + n);
 			if (n == 2) {
 				continue;
