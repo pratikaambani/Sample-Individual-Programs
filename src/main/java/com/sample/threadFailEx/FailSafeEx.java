@@ -1,7 +1,7 @@
 package com.sample.threadFailEx;
 
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.Iterator;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class FailSafeEx {
 

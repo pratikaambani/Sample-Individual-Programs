@@ -1,7 +1,8 @@
 package com.sample.networling;
 
-import java.io.*;
-import java.net.*;
+import java.io.InputStream;
+import java.net.URL;
+import java.net.URLConnection;
 
 public class URLConnectionExample {
 	public static void main(String[] args) {

@@ -27,5 +27,4 @@ public class breakContinue {
 		// break out of loop
 		System.out.println("exit via break as soon as comes to 4");
 	}
-
 }

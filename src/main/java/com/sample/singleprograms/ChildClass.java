@@ -1,7 +1,5 @@
 package com.sample.singleprograms;
 
-import java.io.IOException;
-
 class ParentClass {
 
 	static {

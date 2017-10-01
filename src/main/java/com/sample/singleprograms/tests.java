@@ -1,10 +1,5 @@
 package com.sample.singleprograms;
 
-import java.util.ArrayList;
-import java.util.Enumeration;
-import java.util.List;
-import java.util.Vector;
-
 public class tests {
 
 	// 1. Vector + Enum

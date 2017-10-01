@@ -1,7 +1,7 @@
 package com.sample.singleprograms;
 
-import java.util.Date;
 import javax.servlet.*;
+import java.util.Date;
 
 public class LogFilter implements Filter {
 	public void init(FilterConfig config) throws ServletException {

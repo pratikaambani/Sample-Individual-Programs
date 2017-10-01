@@ -1,14 +1,5 @@
 package com.sample.singleprograms;
 
-import org.postgresql.core.ConnectionFactory;
-
-import java.sql.Connection;
-import java.util.Hashtable;
-import java.util.Queue;
-
-import javax.naming.Context;
-import javax.naming.InitialContext;
-
 /*public class QueueDeQueue {
 	public static void main(String[] args) {
 		try {

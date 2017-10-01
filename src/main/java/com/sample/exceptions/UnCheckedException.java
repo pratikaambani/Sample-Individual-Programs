@@ -1,9 +1,5 @@
 package com.sample.exceptions;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-
 public class UnCheckedException {
 
 	public static void main(String args[]) {

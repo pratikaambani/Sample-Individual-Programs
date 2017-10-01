@@ -19,6 +19,8 @@ class Foo<X> {
 class DiamondTest {
     void test() {
         Foo<?> f1 = new Foo(1).get(""); //pass - can pass String where Object is expected
+/*
         Foo<?> f2 = new Foo<>(1).get(""); //fail - cannot pass String where Integer is expected
+*/
     }
 }

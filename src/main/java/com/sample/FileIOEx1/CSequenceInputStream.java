@@ -1,11 +1,8 @@
 package com.sample.FileIOEx1;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.SequenceInputStream;
-
-import javax.sound.midi.Sequence;
 
 public class CSequenceInputStream {
 	public static void main(String args[]) throws IOException {

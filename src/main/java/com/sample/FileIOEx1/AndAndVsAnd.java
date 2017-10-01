@@ -1,8 +1,5 @@
 package com.sample.FileIOEx1;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class AndAndVsAnd {
 
 	public static void main(String[] args) {
