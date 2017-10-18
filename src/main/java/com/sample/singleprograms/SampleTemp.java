@@ -6,6 +6,10 @@ package com.sample.singleprograms;
 public class SampleTemp {
 
     public static void main(String args[]) {
+
+        String japChar = "漢字";
+        System.out.println("Japanese Character: " +japChar);
+
         new SampleTemp().addAccess();
 
         boolean ignorePin = false;
