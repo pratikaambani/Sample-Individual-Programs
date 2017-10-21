@@ -12,8 +12,8 @@ public class BByteArrayOutputStream {
 
 		String text = "This is Development of File IO on 48.28";
 
-		String fos1 = "\\\\tsclient//D//Xtra//fileOutputStream1.txt";
-		String fos2 = "\\\\tsclient//D//Xtra//fileOutputStream2.txt";
+		String fos1 = "fileOutputStream1.txt";
+		String fos2 = "fileOutputStream2.txt";
 
 		FileOutputStream fOS1 = new FileOutputStream(fos1);
 		FileOutputStream fOS2 = new FileOutputStream(fos2);

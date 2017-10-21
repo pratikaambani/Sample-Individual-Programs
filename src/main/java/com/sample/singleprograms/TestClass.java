@@ -1,16 +1,16 @@
 
-abstract class Shape1 {
+abstract class Shape {
 
-	public Shape1() {
-		System.out.println("Constructor of Shape1 class");
+	public Shape() {
+		System.out.println("Constructor of Shape class");
 	}
 
 	abstract void draw1();
 }
 
-class Circle1 extends Shape1 {
+class Circle extends Shape {
 
-	Circle1() {
+	Circle() {
 		super();
 		System.out.println("Inside Constructor of Circle");
 	}
@@ -20,9 +20,9 @@ class Circle1 extends Shape1 {
 	}
 }
 
-class Square1 extends Shape1 {
+class Square extends Shape {
 
-	Square1() {
+	Square() {
 		System.out.println("Inside Constructor of Square");
 	}
 
@@ -33,13 +33,13 @@ class Square1 extends Shape1 {
 
 }
 
-class test1 {
+class TestClass {
 
 	public static void main(String args[]) {
-		Shape1 s1 = new Circle1();
+		Shape s1 = new Circle();
 		s1.draw1();
 
-		Shape1 s2 = new Square1();
+		Shape s2 = new Square();
 		s2.draw1();
 
 	}

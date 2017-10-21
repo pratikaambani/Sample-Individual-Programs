@@ -1,7 +1,17 @@
 package com.sample.singleprograms;
 
 
-public class MammalInt implements Animal1 {
+interface Animal {
+
+	int a = 3;
+
+	void eat();
+
+	void sleep();
+}
+
+
+public class MammalInt implements Animal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -26,3 +36,5 @@ public class MammalInt implements Animal1 {
 	}
 
 }
+
+

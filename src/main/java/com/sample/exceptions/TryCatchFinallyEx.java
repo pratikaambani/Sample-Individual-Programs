@@ -1,4 +1,4 @@
-package com.sample.singleprograms;
+package com.sample.exceptions;
 
 public class TryCatchFinallyEx {
 	public static void main(String args[]) {

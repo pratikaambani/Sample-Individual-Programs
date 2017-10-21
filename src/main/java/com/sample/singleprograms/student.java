@@ -1,8 +1,10 @@
-class student {
+package com.sample.singleprograms;
+
+class Student {
 	int id1;
 	String name1;
 
-	student(int id, String name) {
+	Student(int id, String name) {
 		id1 = id;
 		name1 = name;
 	}
@@ -12,8 +14,8 @@ class student {
 	}
 
 	public static void main(String args[]) {
-		student s1 = new student(234, "Pappu");
-		student s2 = new student(432, "Feku");
+		Student s1 = new Student(234, "Pappu");
+		Student s2 = new Student(432, "Feku");
 		s1.display();
 		s2.display();
 	}

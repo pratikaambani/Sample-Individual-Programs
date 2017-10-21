@@ -1,3 +1,4 @@
+package com.sample.singleprograms;
 
 public class StringMutImmut {
 

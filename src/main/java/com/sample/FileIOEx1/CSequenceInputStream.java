@@ -7,8 +7,8 @@ import java.io.SequenceInputStream;
 public class CSequenceInputStream {
 	public static void main(String args[]) throws IOException {
 
-		String fis1 = "\\\\tsclient//D//Xtra//fileOutputStream1.txt";
-		String fis2 = "\\\\tsclient//D//Xtra//fileOutputStream2.txt";
+		String fis1 = "fileOutputStream1.txt";
+		String fis2 = "fileOutputStream2.txt";
 
 		FileInputStream fIS1 = new FileInputStream(fis1);
 		FileInputStream fIS2 = new FileInputStream(fis2);

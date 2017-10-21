@@ -1,3 +1,5 @@
+package com.sample.singleprograms;
+
 /**
  * Created by AmbaniP on 16/07/2017.
  */

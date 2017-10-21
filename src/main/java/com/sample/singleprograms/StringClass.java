@@ -4,6 +4,10 @@ public class StringClass {
 
 	public static void main(String args[]) {
 
+		String s1 = new String("Pratik");
+		String s2 = new String("Pratik");
+		System.out.println(s1 = s2);
+
 		String aTz = "abcg";
 		String dTz = "abcdefg";
 

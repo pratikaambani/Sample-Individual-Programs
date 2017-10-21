@@ -1,4 +1,6 @@
-public class floor_cell {
+package com.sample.singleprograms;
+
+public class FloorAndCell {
 	public static void main(String[] args) {
 
 		double d = -100.675;

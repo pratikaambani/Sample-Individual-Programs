@@ -1,3 +1,4 @@
+package com.sample.stringManipulation;
 
 public class TestStringManipulation {
 

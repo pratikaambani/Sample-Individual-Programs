@@ -1,0 +1,13 @@
+Machine learning is a branch in computer
+science that studies the design of algorithms that can learn.
+Typical machine learning tasks are conc
+ept learning, function learning or “predictive modelin
+g”, clustering and finding predictive patterns. These tasks are learned thro
+ugh available data that were observed thr
+ough experi
+ences or instructions, for ex
+ample. Machine learning hopes that including the experienc
+e into its tasks will eventually improve the learning. The ultimate goal
+is to improve the learning in such
+a way that it becomes automatic, so that humans like ourselves don’t
+ need to interfere any more.

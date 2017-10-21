@@ -8,7 +8,12 @@ public class DBufferredOutputStream {
 
 		String text = "This is Development of File IO on 48.28 - BufferedOutputStream";
 
-		String fos1 = "\\\\tsclient//D//Xtra//fileOutputStream1.txt";
+		System.out.println("The class implements a buffered output stream. By setting up such " +
+				"an output stream, an application can write bytes to the underlying " +
+				"output stream without necessarily causing a call to the underlying" +
+				" system for each byte written.\n");
+
+		String fos1 = "fileOutputStream1.txt";
 
 		FileOutputStream fOS1 = new FileOutputStream(fos1);
 
@@ -28,7 +33,7 @@ public class DBufferredOutputStream {
 		System.out.println("");
 		System.out.println("");
 		
-		String fis1 = "\\\\tsclient//D//Xtra//FileinputStream.txt";
+		String fis1 = "FileinputStream.txt";
 		FileInputStream fIS1 = new FileInputStream(fis1);
 
 		BufferedInputStream bIS1 = new BufferedInputStream(fIS1);

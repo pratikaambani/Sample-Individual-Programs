@@ -3,6 +3,7 @@
  */
 class TyprConversion {
     public static void main(String args[]) {
+
         byte b = 42;
         char c = 'a';
         short s = 1024;

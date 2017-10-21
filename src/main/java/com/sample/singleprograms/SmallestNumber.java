@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  * Created by Pratik Ambani on 11/10/2017.
  */
+
 public class SmallestNumber {
 
     static String num;
@@ -23,8 +24,6 @@ public class SmallestNumber {
     }
 
 
-    void
-
     public static void main(String[] args) throws IOException{
 
         Scanner in = new Scanner(System.in);
@@ -37,8 +36,10 @@ public class SmallestNumber {
         }
 
         String res;
+/*
         res = getSmallestNumber();
         writer.write(res);
+*/
         writer.newLine();
         writer.close();
     }

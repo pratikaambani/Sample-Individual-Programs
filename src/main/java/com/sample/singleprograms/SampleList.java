@@ -1,7 +1,9 @@
+package com.sample.singleprograms;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class smapleList {
+public class SampleList {
 
 	public static List<Object> getAllResults() {
 

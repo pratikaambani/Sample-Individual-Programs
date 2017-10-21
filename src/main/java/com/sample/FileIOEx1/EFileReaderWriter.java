@@ -8,7 +8,7 @@ public class EFileReaderWriter {
 
 		String text = "This is Development of File IO on 48.28";
 
-		String fos1 = "\\\\tsclient//D//Xtra//fileOutputStream1.txt";
+		String fos1 = "\\fileOutputStream1.txt";
 
 		File aFile = new File(fos1);
 

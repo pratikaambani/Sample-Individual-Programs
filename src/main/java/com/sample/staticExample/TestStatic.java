@@ -5,7 +5,7 @@ public class TestStatic {
 	private String first;
 	private String last;
 	// Test by removing static from below int
-	private int members = 0;
+	private static int members = 0;
 
 	public TestStatic(String f, String l) {
 		first = f;

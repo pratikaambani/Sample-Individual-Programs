@@ -1,4 +1,6 @@
-public class Prm {
+package com.sample.singleprograms;
+
+public class Fact {
 	public static void main(String args[]) {
 
 		System.out.println("fact of 6 = " + fact(10));

@@ -10,7 +10,7 @@ public class AFileOSIN {
 
 		String text = "This is Development of File IO on 48.28";
 
-		String fos1 = "\\\\tsclient//D//Xtra//fileOutputStream1.txt";
+		String fos1 = "fileOutputStream1.txt";
 
 		FileOutputStream fOS1 = new FileOutputStream(fos1);
 
@@ -20,14 +20,14 @@ public class AFileOSIN {
 
 		System.out.println("success....");
 
-		String fis1 = "\\\\tsclient//D//Xtra//FileinputStream.txt";
+		String fis1 = "fileOutputStream1.txt";
 		FileInputStream fIS1 = new FileInputStream(fis1);
 
 		System.out.println("Total file size to read (in bytes) : " + fIS1.available());
 
 		System.out.println("Total file size to read (in bytes) : " + fIS1.read());
 
-		System.out.println("Total file size to read (in bytes) : " + fIS1.getChannel());
+		System.out.println("Total file size to read (in bytes) : " + fIS1.getChannel().position());
 
 		int i = 0;
 		while ((i = fIS1.read()) != -1) {

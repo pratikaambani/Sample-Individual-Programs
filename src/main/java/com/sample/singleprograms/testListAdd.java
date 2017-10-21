@@ -33,7 +33,7 @@ public class testListAdd {
 		System.out.println("HM = " + hashMapObj.keySet());
 
 		/*
-		 * smapleList s = new smapleList();
+		 * SampleList s = new SampleList();
 		 * 
 		 * hashMapObj = s.getAllResults();
 		 * 

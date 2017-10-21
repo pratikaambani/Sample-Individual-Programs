@@ -10,5 +10,5 @@ public class DogEarly {
 	public static void main(String args[]) {
 		DogEarly d1 = new DogEarly();
 		d1.eat();
-	}
+	 }
 }
