@@ -1,4 +1,4 @@
-package com;
+package com.unique;
 
 /**
  * Created by Pratik Ambani on 21/10/2017.
