@@ -14,12 +14,12 @@ class Test_Super {
 class Test1 extends Test_Super {
 	public Test1(int a, int b) {
 		super(11, 12);
-		System.out.println("Inside Test1" + (a + b));
+		System.out.println("Inside Example2" + (a + b));
 	}
 
 	public Test1() {
 		super();
-		System.out.println("Inside Test1");
+		System.out.println("Inside Example2");
 	}
 
 	public static void main(String[] args) {

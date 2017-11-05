@@ -1,3 +1,5 @@
+package com.sample.singleprograms;
+
 public abstract class Test3 {
 
 	public void Shape(String id) {

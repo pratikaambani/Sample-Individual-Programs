@@ -1,4 +1,4 @@
-package com.sample.singleprograms;
+package com.sample.date;
 
 import java.util.Calendar;
 import java.util.Locale;

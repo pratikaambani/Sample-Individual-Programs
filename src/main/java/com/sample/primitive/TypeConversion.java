@@ -1,7 +1,9 @@
+package com.sample.primitive;
+
 /**
  * Created by AmbaniP on 16/07/2017.
  */
-class TyprConversion {
+class TypeConversion {
     public static void main(String args[]) {
 
         byte b = 42;

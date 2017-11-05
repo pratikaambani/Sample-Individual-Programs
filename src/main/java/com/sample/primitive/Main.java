@@ -1,3 +1,5 @@
+package com.sample.primitive;
+
 import java.util.Date;
 
 public class Main {

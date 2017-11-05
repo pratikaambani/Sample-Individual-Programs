@@ -8,7 +8,7 @@ public class PreferenceExample1 {
 	public void setPreference() {
 		// This will define a node in which the preferences can be stored
 		prefs = Preferences.userRoot().node(this.getClass().getName());
-		String ID1 = "Test1";
+		String ID1 = "Example2";
 		String ID2 = "Test2";
 		String ID3 = "Test3";
 

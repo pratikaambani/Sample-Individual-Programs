@@ -1,6 +1,6 @@
-package com.sample.singleprograms;
+package com.sample.date;
 
-public class Date1 {
+public class DateExample {
 	public static void main(String args[]) {
 
 		java.util.Date d1 = new java.util.Date();
