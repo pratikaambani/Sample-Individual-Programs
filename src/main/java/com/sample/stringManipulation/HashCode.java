@@ -4,8 +4,8 @@ package com.sample.stringManipulation;
 public class HashCode {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		//Check values while debugging
 		String a = new String("Hi");
 		String b = "Hi";
 
@@ -15,5 +15,5 @@ public class HashCode {
 		System.out.println(" \n \t b.hashCode(); = " + b.hashCode());
 		System.out.println(" \n \t v.hashCode(); = " + v.hashCode());
 	}
-
 }
+

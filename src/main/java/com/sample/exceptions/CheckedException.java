@@ -1,6 +1,8 @@
 package com.sample.exceptions;
 
 import java.io.FileInputStream;
+import java.util.ArrayList;
+import java.util.List;
 
 public class CheckedException {
 
@@ -9,9 +11,9 @@ public class CheckedException {
 		System.out.println("Here nothing is handled so it throws "
 				+ "error at compile time and hence this is "
 				+ "Checked Exception.");
-		
-		
-		
+
+
+		List<String> ll = new ArrayList();
 /*
 		try {
 			System.out.println("test");
