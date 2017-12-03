@@ -6,7 +6,7 @@ import java.util.Comparator;
 /**
  * Created by Pratik Ambani on 24/11/2017.
  */
-public class ComparableEx {
+public class ComparableAndComparatorEx {
     public static void main(String[] args) {
         Employee[] empArr = new Employee[4];
         empArr[0] = new Employee(10, "Mikey", 25, 10000);

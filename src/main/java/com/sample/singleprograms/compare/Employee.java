@@ -87,4 +87,18 @@ public class Employee implements Comparable<Employee> {
         }
     };
 
+    private String g(int a, String b){
+        return null;
+    }
+
+    private String gg(int a, float b){
+        return null;
+    }
+
+    private String ggg(String a, float b){
+        return null;
+    }
+
+
+
 }

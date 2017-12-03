@@ -14,7 +14,6 @@ public class InvalidComparable {
         empArr[2] = new InvalidEmployee(5, "Lisa", 35, 5000);
         empArr[3] = new InvalidEmployee(1, "Pankaj", 32, 50000);
 
-        //sorting employees array using ComparableEx interface implementation
         Arrays.sort(empArr);
         System.out.println("Default Sorting of Employees list:\n"+Arrays.toString(empArr));
     }
