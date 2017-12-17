@@ -30,7 +30,10 @@ public class BitwiseShift {
         System.out.println("a >> 2  = " + c);
 
         c = a >>> 2;      /* 15 = 0000 1111 */
+        //60 = 111100 >>>>>>>>>>>>>>>>>>>>>>>>>>> by 2: 001111
+        //001111
         System.out.println("a >>> 2 = " + c);
+
     }
 }
 
