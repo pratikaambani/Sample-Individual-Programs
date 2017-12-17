@@ -1,4 +1,4 @@
-package com.sample.collection;
+package com.sample.collection.list;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,15 +8,30 @@ import java.util.List;
  */
 public class ArrayListExample {
     public static void main(String[] args) {
-        final ArrayList ll = new ArrayList();
+        final ArrayList arrayList = new ArrayList();
         increment();
-        addition(ll);
+        addition(arrayList);
+
+
+        System.out.println(arrayList.get(1));
+        System.out.println(arrayList.remove(1));
+        System.out.println(arrayList.get(1));
+
+
+        System.out.println(arrayList.remove(3));
+        arrayList.remove("d2");
+        arrayList.remove(0);
+
     }
 
     private static void addition(ArrayList ll) {
         ll.add("d10");
         ll.add("d2");
         ll.add("d3");
+        ll.add("d4");
+        ll.add("d5");
+        ll.add(6.8);
+        ll.add(6);
 
         for (Object object: ll) {
             System.out.println(object);

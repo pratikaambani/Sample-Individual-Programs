@@ -1,4 +1,4 @@
-package com.sample.iteration;
+package com.sample.collection.iteration;
 
 /**
  * Created by Pratik Ambani on 4/11/2017.
