@@ -1,4 +1,4 @@
-package com.sample.stringManipulation;
+package com.sample.practise.stringManipulation;
 
 import java.util.HashMap;
 import java.util.Map;

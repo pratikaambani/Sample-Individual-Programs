@@ -1,4 +1,4 @@
-package com.sample.stringManipulation;
+package com.sample.practise.stringManipulation;
 
 public class TestStringManipulation {
 

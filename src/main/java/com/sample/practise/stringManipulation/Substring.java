@@ -1,4 +1,4 @@
-package com.sample.stringManipulation;
+package com.sample.practise.stringManipulation;
 
 public class Substring {
 	public static void main(String args[]) {
