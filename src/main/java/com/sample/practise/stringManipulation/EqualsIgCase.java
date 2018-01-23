@@ -1,4 +1,4 @@
-package com.sample.singleprograms;
+package com.sample.practise.stringManipulation;
 
 public class EqualsIgCase {
 

@@ -1,4 +1,4 @@
-package com.sample.inheritance;
+package com.sample.practise.oopsconcepts.inheritance;
 
 /**
  * Created by Pratik Ambani on 2/11/2017.

@@ -1,6 +1,6 @@
-package com.sample.singleprograms;
+package com.sample.practise.stringManipulation;
 
-public class StrBfr {
+public class StringBufferExample {
 	public static void main(String args[]) {
 
 		String s = new String("Hellow");
