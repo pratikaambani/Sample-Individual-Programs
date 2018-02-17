@@ -6,17 +6,14 @@ package com.sample.exceptions;
 public class TrickyExamples {
 
     public static void main(String[] args) {
-
         example1();
-
-
     }
 
     private static void example1() {
         try {
             System.out.println("1");
- //           return;
-            throw new Exception();
+            return;
+ //           throw new Exception();
         } catch (Exception e) {
             System.out.println("2 " +e);
             throw new Exception();

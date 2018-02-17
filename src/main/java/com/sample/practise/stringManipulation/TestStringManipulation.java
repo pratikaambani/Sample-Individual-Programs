@@ -10,7 +10,7 @@ public class TestStringManipulation {
 		System.out.println("Main String = " + s);
 
 		String s1 = s.substring(1);
-		System.out.println("Sub String = " + s1);
+		System.out.println("SubClass String = " + s1);
 
 		String s2 = s1.trim();
 		System.out.println("sub String = " + s2);

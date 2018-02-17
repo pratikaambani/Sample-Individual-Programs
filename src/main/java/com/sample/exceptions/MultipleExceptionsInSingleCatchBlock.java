@@ -5,6 +5,13 @@ import java.io.FileNotFoundException;
 public class MultipleExceptionsInSingleCatchBlock {
 	public static void main(String args[]) {
 
+		multipleCatchBlock();
+		
+		tryReturnTest();
+
+	}
+
+	private static void multipleCatchBlock() {
 		try {
 			int a = 1 / 0;
 			throw new FileNotFoundException();
@@ -13,9 +20,6 @@ public class MultipleExceptionsInSingleCatchBlock {
 		} finally {
 			System.out.println("tada");
 		}
-		
-		
-		tryReturnTest();
 	}
 
 	private static int tryReturnTest() {
