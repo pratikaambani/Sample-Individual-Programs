@@ -2,17 +2,17 @@ package com.practise.oops.accessModifiersAndThis;
 
 public class AccessMain {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		Access ac = new Access();
+        Access ac = new Access();
 
-		System.out.println(ac.toHour());
-		System.out.println(ac.toMin());
+        System.out.println(ac.toHour());
+        System.out.println(ac.toMin());
 
-		ac.setValues(7, 8, 9);
+        ac.setValues(7, 8, 9);
 
-		System.out.println(ac.toHour());
-		System.out.println(ac.toMin());
+        System.out.println(ac.toHour());
+        System.out.println(ac.toMin());
 
-	}
+    }
 }

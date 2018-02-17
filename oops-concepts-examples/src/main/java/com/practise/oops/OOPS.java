@@ -39,7 +39,7 @@ class EncapTest {
 
     public void setName(String newName) {
         name = newName;
-   }
+    }
 
 }
 

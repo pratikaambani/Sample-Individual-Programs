@@ -7,6 +7,24 @@ import java.util.Comparator;
  */
 public class Employee implements Comparable<Employee> {
 
+    public static Comparator<Employee> salaryComparator = new Comparator<Employee>() {
+        @Override
+        public int compare(Employee o1, Employee o2) {
+            return (int) (o1.getSalary() - o2.getSalary());
+        }
+    };
+    public static Comparator<Employee> idComparator = new Comparator<Employee>() {
+        @Override
+        public int compare(Employee o1, Employee o2) {
+            return (o1.getId() - o2.getId());
+        }
+    };
+    public static Comparator<Employee> ageComparator = new Comparator<Employee>() {
+        @Override
+        public int compare(Employee o1, Employee o2) {
+            return (o1.getAge() - o2.getAge());
+        }
+    };
     private int id;
     private String name;
     private int age;
@@ -66,39 +84,17 @@ public class Employee implements Comparable<Employee> {
         return this.id - o.id;
     }
 
-    public static Comparator<Employee> salaryComparator = new Comparator<Employee>() {
-        @Override
-        public int compare(Employee o1, Employee o2) {
-            return (int)(o1.getSalary() - o2.getSalary());
-        }
-    };
-
-    public static Comparator<Employee> idComparator = new Comparator<Employee>() {
-        @Override
-        public int compare(Employee o1, Employee o2) {
-            return (o1.getId() - o2.getId());
-        }
-    };
-
-    public static Comparator<Employee> ageComparator = new Comparator<Employee>() {
-        @Override
-        public int compare(Employee o1, Employee o2) {
-            return (o1.getAge() - o2.getAge());
-        }
-    };
-
-    private String g(int a, String b){
+    private String g(int a, String b) {
         return null;
     }
 
-    private String gg(int a, float b){
+    private String gg(int a, float b) {
         return null;
     }
 
-    private String ggg(String a, float b){
+    private String ggg(String a, float b) {
         return null;
     }
-
 
 
 }

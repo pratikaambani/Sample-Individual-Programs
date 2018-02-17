@@ -3,33 +3,33 @@ package com.practise.oops.encapsulation;
 
 public class EncapBean {
 
-	private String name;
-	private String idNum;
-	private int age;
+    private String name;
+    private String idNum;
+    private int age;
 
-	protected int getAge() {
-		return age;
-	}
+    protected int getAge() {
+        return age;
+    }
 
-	public String getName() {
-		return name;
-	}
+    //default
+    void setAge(int newAge) {
+        age = newAge;
+    }
 
-	public String getIdNum() {
-		return idNum;
-	}
+    public String getName() {
+        return name;
+    }
 
-	//default
-	void setAge(int newAge) {
-		age = newAge;
-	}
+    public void setName(String newName) {
+        name = newName;
+    }
 
-	public void setName(String newName) {
-		name = newName;
-	}
+    public String getIdNum() {
+        return idNum;
+    }
 
-	//protected
-	protected void setIdNum(String newId) {
-		idNum = newId;
-	}
+    //protected
+    protected void setIdNum(String newId) {
+        idNum = newId;
+    }
 }

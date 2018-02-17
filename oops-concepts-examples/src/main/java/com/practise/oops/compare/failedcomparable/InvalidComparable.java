@@ -15,6 +15,6 @@ public class InvalidComparable {
         empArr[3] = new InvalidEmployee(1, "Pankaj", 32, 50000);
 
         Arrays.sort(empArr);
-        System.out.println("Default Sorting of Employees list:\n"+Arrays.toString(empArr));
+        System.out.println("Default Sorting of Employees list:\n" + Arrays.toString(empArr));
     }
 }

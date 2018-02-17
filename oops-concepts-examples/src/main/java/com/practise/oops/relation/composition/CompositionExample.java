@@ -11,7 +11,7 @@ public class CompositionExample {
 
         long salary = person.getSalary();
 
-        System.out.println("salary: " +salary);
+        System.out.println("salary: " + salary);
 
     }
 }

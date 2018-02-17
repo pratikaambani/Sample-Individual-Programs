@@ -12,20 +12,20 @@ public class PassByValue {
         Balloon blue = new Balloon("Blue");
 
         //The changes being done in the called method
-        System.out.println("Red color: " +red.getColor());
-        System.out.println("Blue color: " +blue.getColor());
+        System.out.println("Red color: " + red.getColor());
+        System.out.println("Blue color: " + blue.getColor());
 
         //A copy of the passed-in variable is copied into the argument of the method.
         // Any changes to the argument do not affect the original one.
         //swap, best example for any programming language to check pass by value or reference
         swap(red, blue);
 
-        System.out.println("Red color: " +red.getColor());
-        System.out.println("Blue color: " +blue.getColor());
+        System.out.println("Red color: " + red.getColor());
+        System.out.println("Blue color: " + blue.getColor());
 
         foo(blue);
 
-        System.out.println("Blue color: " +blue.getColor());
+        System.out.println("Blue color: " + blue.getColor());
     }
 
     private static void foo(Balloon balloon) {

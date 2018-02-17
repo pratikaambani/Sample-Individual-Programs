@@ -15,16 +15,16 @@ public class ComparableAndComparatorEx {
 
         //sorting employees array using Comparable interface implementation
         Arrays.sort(empArr);
-        System.out.println("Default Sorting of Employees list:\n"+Arrays.toString(empArr));
+        System.out.println("Default Sorting of Employees list:\n" + Arrays.toString(empArr));
 
-        Arrays.sort(empArr,Employee.ageComparator);
-        System.out.println("Employees list sorted by Age:\n"+Arrays.toString(empArr));
+        Arrays.sort(empArr, Employee.ageComparator);
+        System.out.println("Employees list sorted by Age:\n" + Arrays.toString(empArr));
 
-        Arrays.sort(empArr,Employee.idComparator);
-        System.out.println("Employees list sorted by id:\n"+Arrays.toString(empArr));
+        Arrays.sort(empArr, Employee.idComparator);
+        System.out.println("Employees list sorted by id:\n" + Arrays.toString(empArr));
 
-        Arrays.sort(empArr,Employee.salaryComparator);
-        System.out.println("Employees list sorted by Salary:\n"+Arrays.toString(empArr));
+        Arrays.sort(empArr, Employee.salaryComparator);
+        System.out.println("Employees list sorted by Salary:\n" + Arrays.toString(empArr));
 
     }
 

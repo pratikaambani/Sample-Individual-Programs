@@ -3,7 +3,7 @@ package com.practise.oops.clone;
 /**
  * Created by Pratik Ambani on 1/01/2018.
  */
-class Courses implements Cloneable{
+class Courses implements Cloneable {
 
     String subject1;
     String subject2;
@@ -54,14 +54,14 @@ public class DeepCloning {
             e.printStackTrace();
         }
 
-        System.out.println("sub of Pratik initially: " +pratik.courses.subject3);
-        System.out.println("sub of Vishal initially: " +vishal.courses.subject3);
+        System.out.println("sub of Pratik initially: " + pratik.courses.subject3);
+        System.out.println("sub of Vishal initially: " + vishal.courses.subject3);
 
         System.out.println("Modifying Vishal's value");
         vishal.courses.subject3 = "Maths";
 
-        System.out.println("sub of Pratik after modification: " +pratik.courses.subject3);
-        System.out.println("sub of Vishal after modification: " +vishal.courses.subject3);
+        System.out.println("sub of Pratik after modification: " + pratik.courses.subject3);
+        System.out.println("sub of Vishal after modification: " + vishal.courses.subject3);
     }
 }
 

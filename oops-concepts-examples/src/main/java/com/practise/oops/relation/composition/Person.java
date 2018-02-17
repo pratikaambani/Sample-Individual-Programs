@@ -8,7 +8,7 @@ public class Person {
     private Job job;
 
     public Person() {
-        this.job = new  Job();
+        this.job = new Job();
         job.setSalary(10000);
     }
 

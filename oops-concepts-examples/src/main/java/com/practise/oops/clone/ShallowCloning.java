@@ -49,14 +49,14 @@ public class ShallowCloning {
             e.printStackTrace();
         }
 
-        System.out.println("sub of Pratik initially: " +pratik.course.subject3);
-        System.out.println("sub of Vishal initially: " +vishal.course.subject3);
+        System.out.println("sub of Pratik initially: " + pratik.course.subject3);
+        System.out.println("sub of Vishal initially: " + vishal.course.subject3);
 
         System.out.println("Modifying Vishal's value");
         vishal.course.subject3 = "Maths";
 
-        System.out.println("sub of Pratik after modification: " +pratik.course.subject3);
-        System.out.println("sub of Vishal after modification: " +vishal.course.subject3);
+        System.out.println("sub of Pratik after modification: " + pratik.course.subject3);
+        System.out.println("sub of Vishal after modification: " + vishal.course.subject3);
     }
 }
 

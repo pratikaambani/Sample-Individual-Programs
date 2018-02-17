@@ -4,11 +4,11 @@ package com.practise.oops.relation.association;
  * Created by Pratik Ambani on 20/11/2017.
  */
 public class AssociationExample {
-//class Transport Company
+    //class Transport Company
     public static void main(String[] args) {
         Driver driverObject = new Driver("Salaam Saab", "i20", 8605);
-        System.out.println("Name: " +driverObject.driverName+ " and " +
-                "Car Name: " +driverObject.carName+ " and No: " +driverObject.carNo);
+        System.out.println("Name: " + driverObject.driverName + " and " +
+                "Car Name: " + driverObject.carName + " and No: " + driverObject.carNo);
     }
 }
 
@@ -34,11 +34,11 @@ class CarClass {
 
     public CarClass(String carName, int carNo) {
         this.carName = carName;
-        this.carNo= carNo;
+        this.carNo = carNo;
     }
 }
 
-class Driver extends CarClass{
+class Driver extends CarClass {
     String driverName;
 
     public Driver(String driverName, String carName, int carNo) {
