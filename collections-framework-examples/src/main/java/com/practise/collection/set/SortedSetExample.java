@@ -1,4 +1,4 @@
-package com.sample.collection.set;
+package com.practise.collection.set;
 
 /**
  * Created by Pratik Ambani on 12/12/2017.

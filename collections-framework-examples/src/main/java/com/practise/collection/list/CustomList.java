@@ -1,4 +1,4 @@
-package com.sample.collection.list;
+package com.practise.collection.list;
 
 /**
  * Created by Pratik Ambani on 31/12/2017.

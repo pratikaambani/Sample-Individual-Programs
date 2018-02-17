@@ -11,6 +11,8 @@
 
     <modules>
         <module>solid-principle-examples</module>
+        <module>oops-concepts-examples</module>
+        <module>collections-framework-examples</module>
     </modules>
 
     <dependencies>

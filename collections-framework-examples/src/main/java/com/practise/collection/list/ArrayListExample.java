@@ -1,7 +1,6 @@
-package com.sample.collection.list;
+package com.practise.collection.list;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by Pratik Ambani on 26/11/2017.
