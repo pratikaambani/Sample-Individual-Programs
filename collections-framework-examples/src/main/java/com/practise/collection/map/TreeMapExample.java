@@ -11,22 +11,22 @@ public class TreeMapExample {
         //add key-value pair to TreeMap
         tm.put("first", "FIRST INSERTED");
         tm.put("bsecond", "SECOND INSERTED");
-        tm.put("athird","THIRD INSERTED");
+        tm.put("athird", "THIRD INSERTED");
         System.out.println(tm);
         Set<String> keys = tm.keySet();
-        for(String key: keys){
-            System.out.println("Value of "+key+" is: "+tm.get(key));
+        for (String key : keys) {
+            System.out.println("Value of " + key + " is: " + tm.get(key));
         }
 
         Map<String, String> map = new LinkedHashMap<String, String>();
         map.put("first", "FIRST INSERTED");
         map.put("bsecond", "SECOND INSERTED");
-        map.put("athird","THIRD INSERTED");
+        map.put("athird", "THIRD INSERTED");
         System.out.println(map);
         Iterator<String> keys1 = map.keySet().iterator();
 
     }
-    }
+}
 
 
 

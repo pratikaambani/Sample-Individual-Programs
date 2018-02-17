@@ -7,7 +7,7 @@ import java.util.IdentityHashMap;
  */
 public abstract class IdentityHashMapExample {
     public static void main(String args[]) {
-         IdentityHashMap<String, String> identityMap = new IdentityHashMap<String, String>();
+        IdentityHashMap<String, String> identityMap = new IdentityHashMap<String, String>();
 
         identityMap.put("sony", "branvia");
         identityMap.put(new String("sony"), "mobile");

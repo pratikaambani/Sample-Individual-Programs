@@ -14,8 +14,8 @@ public class LinkedHashSetExample {
         linkedHashSet.add("Ravi");
         linkedHashSet.add("Ajay");
         linkedHashSet.add("Random");
-        Iterator<String> itr=linkedHashSet.iterator();
-        while(itr.hasNext()){
+        Iterator<String> itr = linkedHashSet.iterator();
+        while (itr.hasNext()) {
             System.out.println(itr.next());
         }
 

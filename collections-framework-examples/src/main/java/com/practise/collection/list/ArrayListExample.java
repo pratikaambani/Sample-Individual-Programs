@@ -32,14 +32,14 @@ public class ArrayListExample {
         ll.add(6.8);
         ll.add(6);
 
-        for (Object object: ll) {
+        for (Object object : ll) {
             System.out.println(object);
         }
     }
 
     private static void increment() {
         int oldCapacity = 10;
-        System.out.println("Increment in Arraylist: " +(oldCapacity + (10 >> 1)));
-        System.out.println("Increment in Vector: " +(oldCapacity + (10 << 1)));
+        System.out.println("Increment in Arraylist: " + (oldCapacity + (10 >> 1)));
+        System.out.println("Increment in Vector: " + (oldCapacity + (10 << 1)));
     }
 }

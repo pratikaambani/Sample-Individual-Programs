@@ -94,26 +94,26 @@ public class CustomQueueExample {
 
 class QueueFullException extends RuntimeException {
 
-    public QueueFullException(){
+    public QueueFullException() {
         super();
     }
 
-    public QueueFullException(String message){
+    public QueueFullException(String message) {
         super(message);
     }
 
 }
 
 /**
- *Exception to indicate that Queue is empty.
+ * Exception to indicate that Queue is empty.
  */
 class QueueEmptyException extends RuntimeException {
 
-    public QueueEmptyException(){
+    public QueueEmptyException() {
         super();
     }
 
-    public QueueEmptyException(String message){
+    public QueueEmptyException(String message) {
         super(message);
     }
 
