@@ -23,7 +23,5 @@ public class LinkedHashMapExample {
         System.out.println(map.get(0));
         System.out.println(map.get(4));
 
-
-
     }
 }
