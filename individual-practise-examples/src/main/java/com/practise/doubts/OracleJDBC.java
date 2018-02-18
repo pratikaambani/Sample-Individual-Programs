@@ -6,45 +6,45 @@ import java.sql.SQLException;
 
 public class OracleJDBC {
 
-	public static void main(String[] argv) {
+    public static void main(String[] argv) {
 
-		System.out.println("-------- Oracle JDBC Connection Testing ------");
+        System.out.println("-------- Oracle JDBC Connection Testing ------");
 
-		try {
+        try {
 
-			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
+            Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
 
-		} catch (ClassNotFoundException e) {
+        } catch (ClassNotFoundException e) {
 
-			System.out.println("Where is your Oracle JDBC Driver?");
-			e.printStackTrace();
-			return;
+            System.out.println("Where is your Oracle JDBC Driver?");
+            e.printStackTrace();
+            return;
 
-		}
+        }
 
-		System.out.println("Oracle JDBC Driver Registered!");
+        System.out.println("Oracle JDBC Driver Registered!");
 
-		Connection connection = null;
+        Connection connection = null;
 
-		try {
+        try {
 
-			connection = DriverManager.getConnection(
-					"jdbc:sqlserver://10.8.62.64;databaseName=RELIM", "imserv",
-					"Pass@123");
+            connection = DriverManager.getConnection(
+                    "jdbc:sqlserver://10.8.62.64;databaseName=RELIM", "imserv",
+                    "Pass@123");
 
-		} catch (SQLException e) {
+        } catch (SQLException e) {
 
-			System.out.println("Connection Failed! Check output console");
-			e.printStackTrace();
-			return;
+            System.out.println("Connection Failed! Check output console");
+            e.printStackTrace();
+            return;
 
-		}
+        }
 
-		if (connection != null) {
-			System.out.println("You made it, take control your database now!");
-		} else {
-			System.out.println("Failed to make connection!");
-		}
-	}
+        if (connection != null) {
+            System.out.println("You made it, take control your database now!");
+        } else {
+            System.out.println("Failed to make connection!");
+        }
+    }
 
 }

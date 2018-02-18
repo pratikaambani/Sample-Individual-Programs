@@ -9,6 +9,6 @@ public class PrintCurrentMethod {
     }
 
     private static void sampleMethod() {
-        System.out.println("Name: " +Thread.currentThread().getStackTrace()[1].getMethodName());
+        System.out.println("Name: " + Thread.currentThread().getStackTrace()[1].getMethodName());
     }
 }

@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class SmallestNumber {
 
     static String num;
+
     static int getSmallestNumber() {
 
         int n = 811295172;
@@ -24,12 +25,12 @@ public class SmallestNumber {
     }
 
 
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException {
 
         Scanner in = new Scanner(System.in);
         final String fileName = System.getenv("OUTPUT_PATH");
         BufferedWriter writer = null;
-        if(fileName != null) {
+        if (fileName != null) {
             writer = new BufferedWriter(new FileWriter(fileName));
         } else {
             writer = new BufferedWriter(new OutputStreamWriter(System.out));

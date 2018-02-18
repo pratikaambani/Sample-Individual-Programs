@@ -12,10 +12,10 @@ public class RecursionExample {
     }
 
     public int recursiveFunction(int a, int b) {
-        if(a==b)
+        if (a == b)
             return a;
-        else if (b>a)
-            return recursiveFunction(a, b-a);
-        else return recursiveFunction(a-b, b);
+        else if (b > a)
+            return recursiveFunction(a, b - a);
+        else return recursiveFunction(a - b, b);
     }
 }

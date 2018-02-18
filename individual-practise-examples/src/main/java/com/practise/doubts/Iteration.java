@@ -2,6 +2,7 @@ package com.practise.doubts;
 
 import java.util.Arrays;
 import java.util.List;
+
 /**
  * Created by Pratik Ambani on 21/10/2017.
  */
@@ -12,9 +13,10 @@ class Iteration {
             list.add(i);
         }
     }
+
     public static void main(String args[]) {
         List<Double> ld = Arrays.asList();
- //       addnumbers(10.4);
+        //       addnumbers(10.4);
         System.out.println("getList(2)");
     }
 }

@@ -2,21 +2,21 @@ package com.practise.doubts;
 
 public abstract class Test3 {
 
-	public void Shape(String id) {
-		this.id = id;
-	}
+    private String id;
 
-	// This abstract method must be defined in a concrete subclass.
-	// Note that it is called in this class in the toString method.
-	public abstract double getArea();
+    public void Shape(String id) {
+        this.id = id;
+    }
 
-	public String getId() {
-		return id;
-	}
+    // This abstract method must be defined in a concrete subclass.
+    // Note that it is called in this class in the toString method.
+    public abstract double getArea();
 
-	public String toString() {
-		return "Shape[id=" + id + ",area=" + getArea() + "]";
-	}
+    public String getId() {
+        return id;
+    }
 
-	private String id;
+    public String toString() {
+        return "Shape[id=" + id + ",area=" + getArea() + "]";
+    }
 }

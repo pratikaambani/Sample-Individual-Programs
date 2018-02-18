@@ -10,7 +10,7 @@ public class ContainsTest {
         String Z4 = "0000";
         String Z5 = "00000";
 
-        System.out.println("Response: " +Z5.contains(Z4));
+        System.out.println("Response: " + Z5.contains(Z4));
 
     }
 }

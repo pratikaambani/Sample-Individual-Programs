@@ -2,8 +2,8 @@ package com.practise.doubts;
 
 public class tests {
 
-	// 1. Vector + Enum
-	/*
+    // 1. Vector + Enum
+    /*
 	 * public static void main(String[] args) { // TODO Auto-generated method
 	 * stub Vector v = new Vector(); System.out.println("size = " + v.size());
 	 * v.add("A"); v.add("M"); v.add("B"); v.add("A"); v.add("N"); v.add("I");
@@ -25,22 +25,22 @@ public class tests {
 	 * System.out.println("Values are =  " + stringArray[a]); } }
 	 */
 
-	public static final String a = "Testing";
+    public static final String a = "Testing";
 
-	int i;
+    int i;
 
-	public tests() {
+    public tests() {
 
-		final String value = "This";
-		System.out.println("val = " + value);
+        final String value = "This";
+        System.out.println("val = " + value);
 
-	}
+    }
 
-	public static void main(String args[]) {
+    public static void main(String args[]) {
 
-		System.out.println("");
+        System.out.println("");
 
-		tests tt = new tests();
+        tests tt = new tests();
 
-	}
+    }
 }
