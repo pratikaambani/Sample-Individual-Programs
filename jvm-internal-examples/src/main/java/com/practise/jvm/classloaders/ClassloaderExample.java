@@ -1,4 +1,4 @@
-package com.sample.jvm.classloaders;
+package com.practise.jvm.classloaders;
 
 /**
  * Created by Pratik Ambani on 21/10/2017.

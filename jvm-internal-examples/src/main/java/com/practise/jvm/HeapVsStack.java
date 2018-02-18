@@ -1,9 +1,4 @@
-package com.sample.jvm;
-
-import javax.imageio.ImageIO;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
+package com.practise.jvm;
 
 /**
  * Created by Pratik Ambani on 1/01/2018.
