@@ -41,12 +41,10 @@ public class ChildClass extends ParentClass {
         System.out.println("\n It is reference of class - " + childInstance1.getClass().getSimpleName() + "\n");
 
         //invalid scenario, throws exception
-/*
         ChildClass childInstance2 = (ChildClass) new ParentClass();
         childInstance2.demo1();
         childInstance2.demo2();
         System.out.println("\n It is reference of class - " + childInstance2.getClass().getSimpleName() + "\n");
-*/
 
     }
 
