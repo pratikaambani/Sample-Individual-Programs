@@ -14,7 +14,7 @@ public class InfiniteLoops {
 
         System.out.println("Ex. 2");
 /*		while(true) {
-			System.out.println("This output will be printed infinite times.");
+            System.out.println("This output will be printed infinite times.");
 		}		
 */		
 		

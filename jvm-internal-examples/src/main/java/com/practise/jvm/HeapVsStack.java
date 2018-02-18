@@ -6,7 +6,7 @@ package com.practise.jvm;
 public class HeapVsStack {
     public static void main(String[] args) { // Line 1
         System.out.println("Resources: Refer to InitialReferenceClasses001/resources/01.png");
-        int i=1; // Line 2
+        int i = 1; // Line 2
 
         Object obj = new Object(); // Line 3
         HeapVsStack mem = new HeapVsStack(); // Line 4

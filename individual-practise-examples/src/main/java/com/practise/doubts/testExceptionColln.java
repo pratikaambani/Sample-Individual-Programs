@@ -61,7 +61,7 @@ public class testExceptionColln {
 
         // 1. Vectors
         /*
-		 * Vector v = new Vector();
+         * Vector v = new Vector();
 		 *
 		 * v.add("P"); v.add("R"); v.add("A"); v.add("T"); v.add("I");
 		 * v.add("K");

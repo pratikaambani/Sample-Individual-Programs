@@ -4,7 +4,7 @@ public class tests {
 
     // 1. Vector + Enum
     /*
-	 * public static void main(String[] args) { // TODO Auto-generated method
+     * public static void main(String[] args) { // TODO Auto-generated method
 	 * stub Vector v = new Vector(); System.out.println("size = " + v.size());
 	 * v.add("A"); v.add("M"); v.add("B"); v.add("A"); v.add("N"); v.add("I");
 	 * 
