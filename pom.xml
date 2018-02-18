@@ -13,6 +13,7 @@
         <module>solid-principle-examples</module>
         <module>oops-concepts-examples</module>
         <module>collections-framework-examples</module>
+        <module>individual-practise-examples</module>
     </modules>
 
     <dependencies>
