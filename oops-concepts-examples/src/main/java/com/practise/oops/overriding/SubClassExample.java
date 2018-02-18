@@ -2,10 +2,10 @@ package com.practise.oops.overriding;
 
 import java.io.FileNotFoundException;
 
-class SuperClass {
+class SuperClassExample {
 
     //6. Constructors cannot be overridden.
-    public SuperClass() {
+    public SuperClassExample() {
     }
 
     //5. A method declared static cannot be overridden but can be re-declared.
@@ -15,7 +15,7 @@ class SuperClass {
 
     //1. final can't be overridden
     final void demo() {
-        System.out.println("SuperClass Class Method");
+        System.out.println("SuperClassExample Class Method");
     }
 
     //2. Arguments must be same
@@ -57,12 +57,12 @@ class SuperClass {
 
 }
 
-public class SubClass extends SuperClass {
+public class SubClassExample extends SuperClassExample {
 
     //1.
 /*
     void demo() {
-		System.out.println("SubClass Class Method");
+		System.out.println("SubClassExample Class Method");
 	}
 */
 
@@ -92,7 +92,7 @@ public class SubClass extends SuperClass {
 
     //6.
     //@Override
-    public SubClass() {
+    public SubClassExample() {
         super();
     }
 
@@ -100,7 +100,7 @@ public class SubClass extends SuperClass {
     //6.
 /*
 	@Override
-	public SuperClass() {
+	public SuperClassExample() {
 	}
 */
 
@@ -111,7 +111,7 @@ public class SubClass extends SuperClass {
     }
 
     public static void main(String args[]) {
-        SubClass obj = new SubClass();
+        SubClassExample obj = new SubClassExample();
         obj.demo();
     }
 
