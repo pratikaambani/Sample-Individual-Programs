@@ -5,7 +5,7 @@ package com.unique;
  */
 public class ObjectLifecycle {
 
-    static int  a = 16;
+    static int a = 16;
 
     public static void main(String[] args) {
         ChildClass child = new ChildClass();

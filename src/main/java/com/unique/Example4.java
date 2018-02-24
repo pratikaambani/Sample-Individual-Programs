@@ -11,10 +11,10 @@ public class Example4 {
         int c = Integer.parseInt("017", 8);
         int d = Integer.parseInt("017", 10);
 
-        System.out.println("a: " +a);
-        System.out.println("b: " +b);
-        System.out.println("c: " +c);
-        System.out.println("d: " +d);
+        System.out.println("a: " + a);
+        System.out.println("b: " + b);
+        System.out.println("c: " + c);
+        System.out.println("d: " + d);
 
     }
 }

@@ -8,7 +8,7 @@ public class SampleReference002 {
     public static int randomNumber = 100;
 
     public int sum(int a, int b) {
-        return a+b;
+        return a + b;
     }
 
 }
