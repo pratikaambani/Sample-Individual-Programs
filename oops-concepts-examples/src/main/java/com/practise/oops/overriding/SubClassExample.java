@@ -83,12 +83,10 @@ public class SubClassExample extends SuperClassExample {
 */
 
     //4.
-/*
 	@Override
 	Integer sum(int a, int b, int c, int d) {
 		return a+b+c+d;
 	}
-*/
 
     //6.
     //@Override

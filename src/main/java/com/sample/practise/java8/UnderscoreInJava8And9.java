@@ -1,4 +1,4 @@
-package com.sample.practise.singleprograms;
+package com.sample.practise.java8;
 
 /**
  * Created by Pratik Ambani on 10/10/2017.

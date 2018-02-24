@@ -23,16 +23,21 @@ public class ArrayListExample {
 
     }
 
-    private static void addition(ArrayList ll) {
-        ll.add("d10");
-        ll.add("d2");
-        ll.add("d3");
-        ll.add("d4");
-        ll.add("d5");
-        ll.add(6.8);
-        ll.add(6);
+    private static void addition(ArrayList list) {
+        list.add("d10");
+        list.add("d2");
+        list.add("d3");
+        list.add("d4");
+        list.add("d5");
+        list.add(6.8);
+        list.add(6);
+        System.out.println(list.get(1));
+        System.out.println(list.get(1));
+        list.set(1,null);
+        //null pointer exception coz set can be used to replace values only
+        list.set(100,null);
 
-        for (Object object : ll) {
+        for (Object object : list) {
             System.out.println(object);
         }
     }

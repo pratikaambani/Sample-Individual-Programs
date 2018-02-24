@@ -15,7 +15,7 @@ class SuperClass {
 
     //2. If the superclass method does not declare an exception,
     // subclass overridden method cannot declare the checked exception
-    // but can throw checked exception.
+    // but can throw unchecked exception.
     void sayHello2() {
         System.out.println("Hello World");
     }
@@ -33,11 +33,9 @@ class SuperClass {
         System.out.println("Hello World");
     }
 
-}
+    class SubClass extends SuperClass {
 
-class SubClass extends SuperClass {
-
-    //1.
+        //1.
 /*
     @Override
     void sayHello1() throws IOException {
@@ -45,20 +43,20 @@ class SubClass extends SuperClass {
     }
 */
 
-    //2.
-    @Override
-    void sayHello2() throws ArrayIndexOutOfBoundsException {
-        System.out.println("Hello World");
-    }
+        //2.
+        @Override
+        void sayHello2() throws ArrayIndexOutOfBoundsException {
+            System.out.println("Hello World");
+        }
 
-    //3.
-    //3.1 same
-    @Override
-    void sayHello3() throws IOException {
-        System.out.println("Hello World");
-    }
+        //3.
+        //3.1 same
+        @Override
+        void sayHello3() throws IOException {
+            System.out.println("Hello World");
+        }
 
-    //3.2 sub
+        //3.2 sub
 /*
     @Override
     void sayHello3() throws FileNotFoundException{
@@ -66,7 +64,7 @@ class SubClass extends SuperClass {
     }
 */
 
-    //3.3 can't parent
+        //3.3 can't parent
 /*
     @Override
     void sayHello3() throws Exception{
@@ -74,9 +72,11 @@ class SubClass extends SuperClass {
     }
 */
 
-    @Override
-    void sayHello4() {
-        System.out.println("Hello World");
+        @Override
+        void sayHello4() {
+            System.out.println("Hello World");
+        }
+
     }
 
 }

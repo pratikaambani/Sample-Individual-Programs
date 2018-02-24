@@ -1,4 +1,4 @@
-package com.sample.practise.singleprograms;
+package com.sample.practise.java8;
 
 import java.time.LocalTime;
 import java.time.ZoneId;

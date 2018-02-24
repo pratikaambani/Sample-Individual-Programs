@@ -1,4 +1,4 @@
-package com.sample.practise.singleprograms;
+package com.sample.practise.java8;
 
 import java.time.LocalDate;
 import java.time.Month;
@@ -6,11 +6,6 @@ import java.time.ZoneId;
 
 /**
  * Created by Pratik Ambani on 20/10/2017.
- */
-/**
- * LocalDate Examples
- * @author pankaj
- *
  */
 public class Java8Date {
 
