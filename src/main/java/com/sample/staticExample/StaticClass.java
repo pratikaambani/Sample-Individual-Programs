@@ -9,20 +9,18 @@ public class StaticClass {
 
     private static int value = 10;
 
-    int add(int a, int b) {
-        return a+b;
-    }
-
-    int add(int a, int b, int c) {
-        return a+b+c;
-    }
-
     public static void main(String[] args) {
         System.out.println(NestedClass.value);
         System.out.println(value);
     }
 
+    int add(int a, int b) {
+        return a + b;
+    }
 
+    int add(int a, int b, int c) {
+        return a + b + c;
+    }
 
     static class NestedClass {
 
@@ -34,18 +32,18 @@ public class StaticClass {
             System.out.println(NestedClass.class);
 
             NestedClass nestedClass = new NestedClass();
-            System.out.println(nestedClass.add(4,5));
+            System.out.println(nestedClass.add(4, 5));
 
             StaticClass staticClass = new StaticClass();
-            System.out.println(staticClass.add(5,6));
+            System.out.println(staticClass.add(5, 6));
         }
 
         int add(int a, int b) {
-            return a+b;
+            return a + b;
         }
 
         int add(int a, int b, int c) {
-            return a+b+c;
+            return a + b + c;
         }
 
     }
