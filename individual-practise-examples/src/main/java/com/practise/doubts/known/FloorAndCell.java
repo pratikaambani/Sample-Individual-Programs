@@ -1,4 +1,4 @@
-package com.practise.doubts;
+package com.practise.doubts.known;
 
 public class FloorAndCell {
     public static void main(String[] args) {

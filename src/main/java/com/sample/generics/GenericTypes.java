@@ -1,4 +1,4 @@
-package com.practise.doubts;
+package com.sample.generics;
 
 class Room<T> {
 

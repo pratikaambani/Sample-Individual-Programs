@@ -1,4 +1,4 @@
-package com.practise.doubts;
+package com.sample.generics;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,6 +7,8 @@ public class GenericsSuperExtendsDemo {
 
     public static void main(String[] args) {
         new GenericsSuperExtendsDemo().go();
+
+
     }
 
     public void go() {

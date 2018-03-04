@@ -1,5 +1,8 @@
 package com.practise.solid.o.solution;
 
+import com.practise.solid.o.solution.mode.DrivingMode;
+import com.practise.solid.o.solution.mode.Vehicle;
+
 /**
  * Created by Pratik Ambani on 17/02/2018.
  */

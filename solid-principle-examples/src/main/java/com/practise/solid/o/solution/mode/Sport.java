@@ -1,4 +1,4 @@
-package com.practise.solid.o.solution;
+package com.practise.solid.o.solution.mode;
 
 /**
  * Created by Pratik Ambani on 17/02/2018.

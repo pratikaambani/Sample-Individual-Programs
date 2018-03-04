@@ -1,20 +1,20 @@
 package com.practise.doubts;
 
-public class Static_Variable {
+public class StaticVariableExample {
     static int a;
 
     // int a;
 
-    Static_Variable() {
+    StaticVariableExample() {
         a++;
         System.out.println(a);
     }
 
     public static void main(String[] args) {
 
-        Static_Variable t1 = new Static_Variable();
-        Static_Variable t2 = new Static_Variable();
-        Static_Variable t3 = new Static_Variable();
+        StaticVariableExample t1 = new StaticVariableExample();
+        StaticVariableExample t2 = new StaticVariableExample();
+        StaticVariableExample t3 = new StaticVariableExample();
 
         t1.sum();
         t2.sum();
