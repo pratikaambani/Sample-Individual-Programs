@@ -17,7 +17,7 @@ public class HashMapExample {
         students.put("1", "B");
         students.put(2, "C");
         students.put(3, "D");
-        students.put(2, "E");
+        System.out.println(students.put(2, "E"));;
 
         //get
         System.out.println(students.get(3));

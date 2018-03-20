@@ -15,7 +15,7 @@ public class HashSetExample {
         hashSet.add(20);
         hashSet.add("HashSet Tutorial");
         hashSet.add(23);
-        hashSet.add(20);
+        System.out.println(hashSet.add(20));
         hashSet.add("JavaCodeGeeks");
         System.out.println(hashSet.size());
 
