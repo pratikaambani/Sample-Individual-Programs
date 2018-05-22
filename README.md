@@ -1,2 +1,1 @@
-# Sample-Individual-Programs
-Programs for Practise
+# Individual-Practise-Programs
