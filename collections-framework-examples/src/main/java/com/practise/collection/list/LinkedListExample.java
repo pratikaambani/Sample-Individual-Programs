@@ -7,8 +7,13 @@ import java.util.List;
  * Created by Pratik Ambani on 11/12/2017.
  */
 public class LinkedListExample {
+
+    static int salary;
+
     public static void main(String[] args) {
-        final List linkedList = new LinkedList();
+        System.out.println(salary);
+        final List<Object> linkedList = new LinkedList<>();
+
 
         linkedList.add(1);
         linkedList.add(1);

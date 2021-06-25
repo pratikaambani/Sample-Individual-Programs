@@ -7,7 +7,7 @@ class OuterClass {
 
     void outerClassMethod() {
         //5.
-        int value = 10;
+        final int value = 10;
 
         System.out.println("I'm from OuterClass outerClassMethod()");
 
