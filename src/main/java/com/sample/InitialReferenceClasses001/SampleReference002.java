@@ -1,4 +1,4 @@
-package InitialReferenceClasses001;
+package com.sample.InitialReferenceClasses001;
 
 /**
  * Created by AmbaniP on 23/05/2017.

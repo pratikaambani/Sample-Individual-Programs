@@ -1,8 +1,4 @@
-package com.java7;
-
-import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
+package com.practise.doubts;
 
 public class SampleException {
 

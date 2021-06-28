@@ -1,4 +1,4 @@
-package InitialReferenceClasses001;
+package com.sample.InitialReferenceClasses001;
 
 interface I1 {
 

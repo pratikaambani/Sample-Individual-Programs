@@ -1,4 +1,4 @@
-package com.java7;
+package com.practise.doubts.java7;
 
 import java.util.HashMap;
 import java.util.Map;
