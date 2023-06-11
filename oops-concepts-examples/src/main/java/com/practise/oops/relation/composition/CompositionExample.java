@@ -5,7 +5,8 @@ package com.practise.oops.relation.composition;
  */
 /*
 * Composition: Question <-> Answer
-* We use the term composition to refer to relationships whose objects don’t have an independent lifecycle, and if the parent object is deleted, all child objects will also be deleted.
+* We use the term composition to refer to relationships whose objects don’t have an independent lifecycle,
+* and if the parent object is deleted, all child objects will also be deleted.
 */
 public class CompositionExample {
 

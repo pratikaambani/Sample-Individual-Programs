@@ -27,11 +27,16 @@ public class MutabilityExample {
     }
 }
 
+//01 final so can't be extended
 final class ImmutableClass {
+
+    //03. members private so can't be accessed from outside
+    //04. members final so can't be modified
     private final int id;
     private final String name;
     private final Address address;
 
+//    02. Parameterized constructor to initialize all fields performing deep copy
     public ImmutableClass(int id, String name, Address address) {
         this.id = id;
         this.name = name;

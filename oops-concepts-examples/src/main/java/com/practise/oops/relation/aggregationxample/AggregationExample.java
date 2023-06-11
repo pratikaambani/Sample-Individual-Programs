@@ -2,7 +2,8 @@ package com.practise.oops.relation.aggregationxample;
 
 /*
 * Aggregation: Phone <-> Battery
-* We call aggregation those relationships whose objects have an independent lifecycle, but there is ownership, and child objects cannot belong to another parent object.
+* We call aggregation those relationships whose objects have an independent lifecycle,
+* but there is ownership, and child objects cannot belong to another parent object.
 */
 class Address {
 
